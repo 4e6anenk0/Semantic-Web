@@ -1,10 +1,9 @@
 import requests as rq
 from lxml import html, etree
-import vacancy as apigds 
+from components import vacancy as apigds
 # Importing created librarys:
 from core.func import class_parse
 from core.func import combine_data
-from core.func import create_tag
 
 
 # Getting content from the site
@@ -23,7 +22,7 @@ description_list = class_parse("card-description", content)
 names = ["name", "company", "salary", "location", "description"]
 data = combine_data(names, name_list, company_list, salary_list, location_list, description_list)
 
-# Example: Generate data structure
+#Example: Generate data structure
 #for el in data:
 #    print("%s,%s,%s,%s,%s" % (el.name, el.company, el.salary, el.location, el.description))
 
@@ -31,6 +30,8 @@ data = combine_data(names, name_list, company_list, salary_list, location_list, 
 # python generateDS.py -o vacancy.py -s vacancysubs.py schema.xsd
 
 # Building a xml document with GenerateDS
+#_____________________________________________________________
+
 vacancies_obj = apigds.vacancies()
 
 f = open("xml_gen.xml", "tw", encoding="utf-8")

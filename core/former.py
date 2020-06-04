@@ -6,7 +6,7 @@ class Former(object):
     def __init__(self, *args, **kwargs):
         for name, value in kwargs.items():
             if hasattr(self, name):
-                raise AttributeError("Conflict error: Attribute '%a' is part of the '%b'" % (name, self.__class__.__name__))
+                raise AttributeError("Conflict error: Attribute %s is part of the %s" % (name, self.__class__.__name__))
             else:
                 setattr(self, name, value)
 

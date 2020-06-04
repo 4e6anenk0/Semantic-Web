@@ -1,182 +1,182 @@
 <vacancies>
     <vacancy>
-        <name> Junior SEO-специалист
-        </name>
-        <company>Lime Devs</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Мы продуктовая IT компания и, в связи с развитием новых проектов, ищем Junior SEO специалиста, который: Понимает, что такое SEO и его основные методы;Умеет...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> DevOps Engineer
-        </name>
-        <company>УКРОРГСИНТЕЗ, ТОВ, НВП</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> THE OPPORTUNITY Enamine is one of the main chemical R&amp;D product and service providers for the world pharma and agro-industry. IT team plays an important...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Програміст 1C (ERP)
-        </name>
-        <company>DNIPRO-M, ООО</company>
-        <salary>45 000 грн</salary>
-        <location>Киев</location>
-        <description> DNIPRO-M - український бренд інструменту для будівництва і ремонту. Наша філософія - допомагати людям покращувати світ навколо себе. Наша місія - надавати...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Front-end developer (Angular 6+)
-        </name>
-        <company>NIX Solutions</company>
-        <salary>Не указано</salary>
-        <location>Харьков</location>
-        <description> Для работы над рядом новых интересных проектов приглашаем специалистов с уверенными знаниями Angular (6+) и опытом работы.ЧТО МЫ РАДЫ ПРЕДЛОЖИТЬ:прекрасный...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Senior .NET developer
-        </name>
-        <company>КВЕСТ МАРКЕТИНГ ЛТД</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Key tasks:Support, refactoring, optimization and improvement of the existing codeIntegration of financial solutions and productsCooperation with international...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Production System Administrator
-        </name>
-        <company>Neogames</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Neogames - a leading international online lottery company is seeking a Production System Administrator.The candidate will be a part of the IT Department...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Customer Support Cоnsultant (fluent English)
-        </name>
-        <company>SupportYourApp</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Passionate about the latest trends in Tech? What if you had a chance to be a part of the world's leading Hardware, Software of SaaS solutions? Imagine...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Менеджер по продажам
-        </name>
-        <company>Бинотел, ТОВ </company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Binotel - ведущий оператор связи для бизнеса в Украине. Компания предоставляет услуги IP -телефонии с набором умных инструментов для повышения продаж и...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Test Engineer
-        </name>
-        <company>3Shape Ukraine</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> 3Shape A/S is a Danish hi-tech company specializing in the production and development of3D solutions (3D scanners and 3D software) for industrial and healthcare...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Senior Java Engineer
-        </name>
-        <company>Codeminders</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> We are looking for Senior Java EngineerRequirements:BS or MS in Computer Science or related fieldSignificant experience in Java8 (Core, Networking, RES,...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Менеджер з продажу сегменту В2В
-        </name>
-        <company>King Star Alliance</company>
-        <salary>20 000 грн</salary>
-        <location>Львов</location>
-        <description> Хочеш освоїти нову сферу? Починати треба з найкращими! Не прогав свій шанс приєднатися до команди King Star Alliance в якості Менеджера з продажу сегменту...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Администратор аппаратной инфраструктуры
-        </name>
-        <company>Корпорация «Биосфера»</company>
-        <salary>Не указано</salary>
-        <location>Днепр</location>
-        <description> Требования:Профильное образование;Знание и понимание уровней сетевой модели OSI;Опыт планирования и маршрутизации корпоративной сети;Опыт написания Fortigate...
-        </description>
-    </vacancy>
-    <vacancy>
         <name> Business Development Manager TM Canyon
-        </name>
+</name>
         <company>ASBIS-Украина</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description> ASBISc Enterprises Plc is one of the leading distributors of Information and Communications Technology products and solutions in EMEA Emerging Markets....
-        </description>
+        <description> ASBISc Enterprises Plc is one of the leading distributors of Information and Communications Technology products and solutions in EMEA Emerging Markets. . . .
+</description>
     </vacancy>
     <vacancy>
-        <name> IT System Administration Team Leader
-        </name>
-        <company>SMO Group</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> We are looking for a System Administrator Team Leader to be based in our Kiev office and become part of our Global IT team. In this role you will report...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Junior IT-Sales manager
-        </name>
-        <company>Darwin Global</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Ищем сейлза по призванию, способного «не благодаря, а вопреки» обучиться и подписывать контракты с клиентами, используя наши корпоративные методологии....
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Аналітик / Керівник підрозділу з питань протидії шахрайству
-        </name>
-        <company>Piraeus Bank ICB</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Ми - європейський банк, 11 років успішного бізнесу в Україні, 100 років в Європі.Регіональна мережа Піреус Банк в Україні охоплює Дніпропетровську, Київську,...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Technical Support Engineer (L2 &amp; L3)
-        </name>
-        <company>SupportYourApp</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Do you take pride in reproducing complex issues and finding the best solutions for customers? Are you eager to utilize your scripting skills and experience?...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Team Lead (Microsoft Dynamics CRM)
-        </name>
-        <company>INNOWARE</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Innoware is recognized as experts in the consulting services, specializing in ERP and CRM implementations and cloud business solutions. Our company holds...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> QA Analyst
-        </name>
-        <company>СимКорп / SimCorp</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Test Analyst for client communication and client reporting software for asset and investment management firms We are looking for a test analyst to join...
-        </description>
-    </vacancy>
-    <vacancy>
-        <name> Senior BigData Engineer, Financial Software Solutions
-        </name>
+        <name> Tech Lead with Python Experience, Financial Software Solutions
+</name>
         <company>DataArt</company>
         <salary>Не указано</salary>
         <location>Днепр</location>
-        <description> Our client is a New York City-based FinTech startup that is building a trading and risk software platform for the investment banking industry to sell as...
-        </description>
+        <description> THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech Company that is building a trading and risk software platform. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> QA Team Lead (Mobile App)
+</name>
+        <company>appflame</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> Працювати в appflame - можливість розкривати свої здібності в особливих умовах, де сумісні дух стартапу, налаштовані процеси без бюрократії та команда. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Business Development Manager
+</name>
+        <company>Bolt</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> We are looking for a Business Sales Manager to join our team. You'll be the face of Bolt for Business, identifying potential clients, getting them excited. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Junior Android developer
+</name>
+        <company>NIX Solutions</company>
+        <salary>Не указано</salary>
+        <location>Харьков</location>
+        <description> Android-команда NIX ищет талантливых разработчиков для создания крутых мобильных приложений, с использованием современных технологий. ЧТО МЫ РАДЫ ТЕБЕ. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Full Stack Developer
+</name>
+        <company>Softo</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> Мы сделали лучший в мире конвертер файлов, а сейчас делаем лучший в мире онлайн-редактор видео https://clideo. comРастем сильно быстрее, чем успеваем делать. Присоединяйся:. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Middle Game Designer
+</name>
+        <company>Mysterytag</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> Разработчик и издатель мобильных игр «MysteryTag» ищет геймдизайнера для новой мобильной онлайн стратегии. Наша компания выпустила более 10 игр для мобильных. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> IT Solution Architect
+</name>
+        <company>Райффайзен Банк Аваль</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> What we need: 3+ years experience with IT architecture and software life cycle of IT systems;theoretical and practical skills with well-known IT architecture. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Аналітик бізнес-процесів/Внутрішній контролер
+</name>
+        <company>НЕК Укренерго</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> Національна енергетична компанія «Укренерго» запрошує взяти участь в конкурсі на заміщення вакантної посади Аналітик бізнес-процесів відділу оцінки процесів. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Lead Software Developer
+</name>
+        <company>SMO Group</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> We are looking for a Lead Software Developer to be based in our Kiev office and become part of our Global IT team. In this role you will report directly. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> IT Review specialist for the USA market
+</name>
+        <company>LimTc</company>
+        <salary>18 000 грн</salary>
+        <location>Киев</location>
+        <description> About LimTC © Limitless Technology Consultants LLC: We're a leading Ukrainian out-staffing company that works with international companies on a long-term. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Mlodszy specjalista ds. ochrony srodowiska
+</name>
+        <company>Prohabitat</company>
+        <salary>12 000 грн</salary>
+        <location>Киев</location>
+        <description> Kim jestesmy Jestesmy kilkuosobowa nowoczesna firma pomagajaca przedsiebiorstwom w dostosowywaniu sie do wymogow prawa ochrony srodowiska. Sporzadzamy. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Аккаунт-менеджер со знанием турецкого языка
+</name>
+        <company>Lime Devs</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> Кто нам нужен?Специалист, который будет внедрять, развивать и поддерживать высокие стандарты качества обслуживания наших клиентов. Мы предлагаем:Работу. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Аккаунт - менеджер со знанием польского языка
+</name>
+        <company>Lime Devs</company>
+        <salary>20 000 грн</salary>
+        <location>Киев</location>
+        <description> В продуктовую IT-компанию, которая занимается разработкой программного обеспечения и продвижением его до конечного пользователя, открыт набор на позицию. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Програміст PHP (Bitrix 24)
+</name>
+        <company>АВ Металл Групп</company>
+        <salary>Не указано</salary>
+        <location>Днепр</location>
+        <description> АВ метал груп - один із лідерів в сфері трейдингу металопрокату. Ми розвиваємо свою діяльність з 2009 року. На сьогодні компанія налічує 270 роздрібних. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Middle Java Developer
+</name>
+        <company>Райффайзен Банк Аваль</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description> What do you need:2+ years of commercial experience with Java 8 +1+ years of writing unit-test2+ years of using jdbc, xml, mq, web-service's2+ years using. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Middle C++ Developer (UE4)
+</name>
+        <company>Pingle Game Studio</company>
+        <salary>Не указано</salary>
+        <location>Днепр</location>
+        <description> Привет!Мы Pingle Game Studio, независимый разработчик компьютерных игр, находимся в поиске неотъемлемой части нашей команды, а именно Middle C++ Developer. . . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Customer Service Manager (German/English/Dutch)
+</name>
+        <company>Management Experts</company>
+        <salary>35 000 грн</salary>
+        <location>Киев</location>
+        <description> Компания ищет Customer Service Managers (можно без опыта), владеющих English/ German/ Dutch на продвинутом уровне. Мы даем Вам возможность учиться и развиваться. . . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Программист 1С
+</name>
+        <company>ВЕНБЕСТ, ООО </company>
+        <salary>35 000 грн</salary>
+        <location>Киев</location>
+        <description> Группа компаний «ВЕНБЕСТ» создана в 1991 году и на сегодняшний день является крупнейшей в Украине негосударственной охранной структурой, лидером рынка. . .
+</description>
+    </vacancy>
+    <vacancy>
+        <name> Game Designer
+</name>
+        <company>ViraGames</company>
+        <salary>25 000 грн</salary>
+        <location>Киев</location>
+        <description> Требования:Понимание как устроен рынок hyper-casual мобильных игр. Умение ясно и однозначно излагать мысли - устно и письменно. Глубокое понимание системного. . .
+</description>
     </vacancy>
 </vacancies>

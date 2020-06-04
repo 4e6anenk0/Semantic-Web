@@ -3,11 +3,14 @@ certifi==2020.4.5.1
 chardet==3.0.4
 elementpath==1.4.5
 generateDS==2.35.23
+googletrans==2.4.0
 idna==2.9
 isort==4.3.21
+langid==1.1.6
 lazy-object-proxy==1.4.3
 lxml==4.5.0
 mccabe==0.6.1
+numpy==1.18.4
 pylint==2.5.0
 requests==2.23.0
 six==1.14.0
