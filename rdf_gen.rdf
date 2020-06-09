@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/dc/elements/1.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="Nfe08cf6e406a4692962677e2631a99cf">
+    <ns1:language>en</ns1:language>
+    <ns1:description>We are looking for a Senior IT Solution Architect to join our motivated, high-performing team in developing our key banking products based on modern, state-of-art. . .</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="12">
+    <ns1:type rdf:nodeID="Nbebec4949bef4b3090fea9dd306a4d57"/>
+    <ns1:title>Front-end developer (Angular 6+)</ns1:title>
+    <ns1:creator>NIX Solutions</ns1:creator>
+    <ns1:title>Харьков</ns1:title>
+    <ns1:type rdf:nodeID="Nad269469b97043bb87d049358e5247ac"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbebec4949bef4b3090fea9dd306a4d57">
+    <ns1:title>eur</ns1:title>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nca86afb2146b4f1292778b74d8bd4b75">
+    <rdf:li rdf:resource="14"/>
+    <rdf:li rdf:resource="13"/>
+    <rdf:li rdf:resource="4"/>
+    <rdf:li rdf:resource="0"/>
+    <rdf:li rdf:resource="1"/>
+    <rdf:li rdf:resource="19"/>
+    <rdf:li rdf:resource="18"/>
+    <rdf:li rdf:resource="16"/>
+    <rdf:li rdf:resource="15"/>
+    <rdf:li rdf:resource="3"/>
+    <rdf:li rdf:resource="12"/>
+    <rdf:li rdf:resource="17"/>
+    <rdf:li rdf:resource="8"/>
+    <rdf:li rdf:resource="10"/>
+    <rdf:li rdf:resource="9"/>
+    <rdf:li rdf:resource="6"/>
+    <rdf:li rdf:resource="7"/>
+    <rdf:li rdf:resource="5"/>
+    <rdf:li rdf:resource="2"/>
+    <rdf:li rdf:resource="11"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc928771d81fd44a4853878df53923f1a">
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3dad049e455b4f0a897daf50215b0e4d">
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <rdf:value>13000</rdf:value>
+    <rdf:value>486</rdf:value>
+    <ns1:title>eur</ns1:title>
+    <rdf:value>438</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="10">
+    <ns1:type rdf:nodeID="N1fb8ba1230a64438bcc8057320ec55ae"/>
+    <ns1:type rdf:nodeID="Nf51ccce26c024085b56195a8d6183db0"/>
+    <ns1:title>Network administrator</ns1:title>
+    <ns1:title>Киев</ns1:title>
+    <ns1:creator>АШАН</ns1:creator>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nad269469b97043bb87d049358e5247ac">
+    <ns1:language>uk</ns1:language>
+    <ns1:description>Ми шукаємо в команду розробників зі знанням Angular 6+ для проектування і створення SaaS-платформи надання послуг смарт-пристроїв, яка розширить. . .</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="11">
+    <ns1:type rdf:nodeID="Nc6bc8f1ad98a47f5a454b052018114a6"/>
+    <ns1:type rdf:nodeID="N174bceb146bc4684b16e8e5000165e5f"/>
+    <ns1:title>Бізнес-аналітик 1С</ns1:title>
+    <ns1:title>Киев</ns1:title>
+    <ns1:creator>ГК Аскания</ns1:creator>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N20605a59c9304ba0b4a74172cdc1916a">
+    <ns1:description>DataArt is looking for a specialist with Pega expertise to maximize the potential of the Pega Platform. The client is a British-based public healthcare. . .</ns1:description>
+    <ns1:language>en</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd9f598e8bdd9492c89f259f31b72b732">
+    <ns1:title>eur</ns1:title>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="4">
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="N544b39dc6e1548f4b7f46fbf507f2e6e"/>
+    <ns1:title>Програміст 1C (ERP)</ns1:title>
+    <ns1:type rdf:nodeID="Nc928771d81fd44a4853878df53923f1a"/>
+    <ns1:creator>КТ Украина, ООО</ns1:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="13">
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="N400e28ac88b94e22912cd8d165722fc3"/>
+    <ns1:title>Системный администратор (Linux, Windows)</ns1:title>
+    <ns1:type rdf:nodeID="Ncb9d780810714c75b492c5135a212ecf"/>
+    <ns1:creator>SIM-Networks</ns1:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="1">
+    <ns1:type rdf:nodeID="N274bcfae228a49b994619852b2eacbf7"/>
+    <ns1:title>Tech Lead with Python Experience, Financial Software Solutions</ns1:title>
+    <ns1:creator>DataArt</ns1:creator>
+    <ns1:type rdf:nodeID="N52a689a9a3084e2c92ad7783c141da91"/>
+    <ns1:title>Днепр</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nac678f6d4c4d40e481073baa70cb9f8a">
+    <ns1:title>eur</ns1:title>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <rdf:value>561</rdf:value>
+    <rdf:value>505</rdf:value>
+    <rdf:value>15000</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="16">
+    <ns1:title>Киев</ns1:title>
+    <ns1:title>Программист-схемотехник (протокол CAN)</ns1:title>
+    <ns1:type rdf:nodeID="Nac678f6d4c4d40e481073baa70cb9f8a"/>
+    <ns1:creator>ПОЛАРИС САТЕЛЛИТ</ns1:creator>
+    <ns1:type rdf:nodeID="Nc58d31be96d94ab2b911e6e9377544a5"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc58d31be96d94ab2b911e6e9377544a5">
+    <ns1:language>uk</ns1:language>
+    <ns1:description>Вимоги: Програміст вбудованого автомобільного устаткування, знайомий з CAN-шиною автомобіля; Здатність написати програму під Windows для управління. . .</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nac720b7126fc4a058744436eeae9a8d3">
+    <rdf:value>1853</rdf:value>
+    <rdf:value>55000</rdf:value>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <rdf:value>2059</rdf:value>
+    <ns1:title>eur</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4ea336cc60704eb58cfcfd4592d52ebf">
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N45a3f7109fad4832980f28f4841de9fb">
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N265dccb005cf4e0785bdc8bc4415f096">
+    <ns1:description>Інтернет-магазину косметики та парфумерії makeup. ua, в зв'язку з розширенням штату, потрібно программіст1С (7. 7). Шукаємо співробітника в штат компанії. Основні. . .</ns1:description>
+    <ns1:language>uk</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd34ce3be01e64a7aa125e56349110046">
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndbb584953b4a4fe18da00844ebe4c602">
+    <ns1:title>uah</ns1:title>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="8">
+    <ns1:title>Киев</ns1:title>
+    <ns1:title>Аналітик бізнес-процесів/Внутрішній контролер</ns1:title>
+    <ns1:type rdf:nodeID="N4a1529ab34a64589bd643c71caf1a16c"/>
+    <ns1:creator>НЕК Укренерго</ns1:creator>
+    <ns1:type rdf:nodeID="N4ea336cc60704eb58cfcfd4592d52ebf"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nee5fedc1bff8457994f23366d47674b6">
+    <rdf:value>30000</rdf:value>
+    <rdf:value>1011</rdf:value>
+    <ns1:title>eur</ns1:title>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <rdf:value>1123</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="9">
+    <ns1:creator>Dukascopy Bank SA</ns1:creator>
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="N50c23f309a674c1f829103d97d32b726"/>
+    <ns1:type rdf:nodeID="Nd34ce3be01e64a7aa125e56349110046"/>
+    <ns1:title>Junior C++ developer</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="5">
+    <ns1:creator>Райффайзен Банк Аваль</ns1:creator>
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="Nd9f598e8bdd9492c89f259f31b72b732"/>
+    <ns1:title>Senior IT Solution Architect</ns1:title>
+    <ns1:type rdf:nodeID="Nfe08cf6e406a4692962677e2631a99cf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="6">
+    <ns1:type rdf:nodeID="N265dccb005cf4e0785bdc8bc4415f096"/>
+    <ns1:creator>MakeUp, Интернет Магазин</ns1:creator>
+    <ns1:title>Киев</ns1:title>
+    <ns1:title>Программист 1С(7. 7)</ns1:title>
+    <ns1:type rdf:nodeID="Nac720b7126fc4a058744436eeae9a8d3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="7">
+    <ns1:title>Sales manager</ns1:title>
+    <ns1:type rdf:nodeID="Nee5fedc1bff8457994f23366d47674b6"/>
+    <ns1:creator>Бест Вертекс</ns1:creator>
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="N8114e1fc0d3649998a108966e67219d7"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N544b39dc6e1548f4b7f46fbf507f2e6e">
+    <ns1:language>uk</ns1:language>
+    <ns1:description>«КТ Україна» - національний лідер у виробництві електроінструменту та будівельних матеріалів таких торгових марок, як Dnipro-М, Foresta, Ataman, Soma Fix. . . .</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nec31e89a5bb84b18a7651656166c14e0">
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc6bc8f1ad98a47f5a454b052018114a6">
+    <ns1:language>uk</ns1:language>
+    <ns1:description>Група компаній «Асканія», багатопрофільний український холдинг, який включає 12 компаній різних напрямів діяльності, запрошує до команди: «Бізнес-аналітика. . .</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="2">
+    <ns1:creator>MELBUL LTD</ns1:creator>
+    <ns1:title>It sales specialist</ns1:title>
+    <ns1:type rdf:nodeID="Ncf931508eae9452b826f5f1ca76a4a03"/>
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="N3dad049e455b4f0a897daf50215b0e4d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="15">
+    <ns1:type rdf:nodeID="N080491dd613340bca4c5ed165fa26929"/>
+    <ns1:type rdf:nodeID="N5aae8c8772f94901bf22d12354935bc5"/>
+    <ns1:creator>DataArt</ns1:creator>
+    <ns1:title>Днепр</ns1:title>
+    <ns1:title>Senior BigData Engineer, Financial Software Solutions</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N50c23f309a674c1f829103d97d32b726">
+    <ns1:description>We are looking for: Junior C++ developer About the Company Dukascopy Bank SA is an innovative Swiss based bank domiciled and having its headquarters in. . .</ns1:description>
+    <ns1:language>en</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5e0d17e2beba42d0a5893d7f90dd0685">
+    <ns1:description>Інноваційної команді розвитку інтернет-метапоіска FMCG-товарів на постоянную работу требуется Спеціаліст технічної підтримки. Необхідні навикі- Чистий ,. . .</ns1:description>
+    <ns1:language>uk</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8894db74688f44048fe0093628393a18">
+    <ns1:title>uah</ns1:title>
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N080491dd613340bca4c5ed165fa26929">
+    <ns1:title>uah</ns1:title>
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="18">
+    <ns1:creator>DataArt</ns1:creator>
+    <ns1:title>Certified PEGA Engineer</ns1:title>
+    <ns1:title>Днепр</ns1:title>
+    <ns1:type rdf:nodeID="N20605a59c9304ba0b4a74172cdc1916a"/>
+    <ns1:type rdf:nodeID="Nec31e89a5bb84b18a7651656166c14e0"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N400e28ac88b94e22912cd8d165722fc3">
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <ns1:title>eur</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="3">
+    <ns1:type rdf:nodeID="N113dcfca9d334defaf99307d98b6819b"/>
+    <ns1:creator>ASBIS-Украина</ns1:creator>
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="N45a3f7109fad4832980f28f4841de9fb"/>
+    <ns1:title>Business Development Manager Bang &amp; Olufsen (Ukraine)</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4a1529ab34a64589bd643c71caf1a16c">
+    <ns1:description>Національна енергетична компанія «Укренерго» запрошує взяти участь в конкурсі на заміщення вакантної посади Аналітик бізнес-процесів відділу оцінки процесів. . .</ns1:description>
+    <ns1:language>uk</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N52a689a9a3084e2c92ad7783c141da91">
+    <ns1:title>uah</ns1:title>
+    <ns1:title>eur</ns1:title>
+    <ns1:title>usd</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndbc47726c01c4714a5e61d314c846fe0">
+    <ns1:title>uah</ns1:title>
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N174bceb146bc4684b16e8e5000165e5f">
+    <ns1:title>uah</ns1:title>
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+    <ns1:title>usd</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="19">
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="Ndbc47726c01c4714a5e61d314c846fe0"/>
+    <ns1:type rdf:nodeID="N12cdea9f926444b093cb665711c5e85f"/>
+    <ns1:title>Программист 1С</ns1:title>
+    <ns1:creator>ВЕНБЕСТ, ООО</ns1:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="17">
+    <ns1:creator>DataArt</ns1:creator>
+    <ns1:type rdf:nodeID="N166990af15274391b819104a4f6200fb"/>
+    <ns1:type rdf:nodeID="Ndbb584953b4a4fe18da00844ebe4c602"/>
+    <ns1:title>Днепр</ns1:title>
+    <ns1:title>WAY4 Expert, Global Acquiring Platform</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1fb8ba1230a64438bcc8057320ec55ae">
+    <ns1:title>usd</ns1:title>
+    <ns1:title>uah</ns1:title>
+    <ns1:title>eur</ns1:title>
+    <rdf:value>Не указано</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N113dcfca9d334defaf99307d98b6819b">
+    <ns1:description>ASBIS - провідна міжнародна компанія, лідер ринку дистрибуції ІТ-продуктів і рішень, в зв'язку з розвитком напряму, запрошує на роботу Business. . .</ns1:description>
+    <ns1:language>uk</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="0">
+    <ns1:type rdf:nodeID="N5e0d17e2beba42d0a5893d7f90dd0685"/>
+    <ns1:creator>Listex</ns1:creator>
+    <ns1:title>Специалист технической поддержки</ns1:title>
+    <ns1:title>Киев</ns1:title>
+    <ns1:type rdf:nodeID="N0517b4d1ce1d4e87885e078197e84a20"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0517b4d1ce1d4e87885e078197e84a20">
+    <rdf:value>838</rdf:value>
+    <ns1:title>uah</ns1:title>
+    <rdf:value>22400</rdf:value>
+    <ns1:title>eur</ns1:title>
+    <ns1:title>usd</ns1:title>
+    <rdf:value>755</rdf:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="14">
+    <ns1:title>Senior DevOps Engineer</ns1:title>
+    <ns1:title>Киев</ns1:title>
+    <ns1:creator>Нова Пошта, ТОВ / Новая Почта</ns1:creator>
+    <ns1:type rdf:nodeID="N280fe791f8ef474c800e94fbf76dca15"/>
+    <ns1:type rdf:nodeID="N8894db74688f44048fe0093628393a18"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncf931508eae9452b826f5f1ca76a4a03">
+    <ns1:language>en</ns1:language>
+    <ns1:description>Requirements: Experience in selling marketing services. Sales experience with the European market. Fluent English communication. Ability to work in a multi-cultural. . .</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N166990af15274391b819104a4f6200fb">
+    <ns1:description>Our client is a European acquiring bank that specializes in processing Internet payments based on the WAY4 payment platform. DataArt's specialists are. . .</ns1:description>
+    <ns1:language>en</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N274bcfae228a49b994619852b2eacbf7">
+    <ns1:description>THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech Company that is building a trading and risk software platform. . .</ns1:description>
+    <ns1:language>en</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5aae8c8772f94901bf22d12354935bc5">
+    <ns1:description>Our client is a New York City-based FinTech startup that is building a trading and risk software platform for the investment banking industry to sell as. . .</ns1:description>
+    <ns1:language>en</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8114e1fc0d3649998a108966e67219d7">
+    <ns1:language>en</ns1:language>
+    <ns1:description>«Best Vertex» is an international company which is mainly aimed on consulting and providing service for corporate and individual clients in IT and financial. . .</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncb9d780810714c75b492c5135a212ecf">
+    <ns1:description>Sim-Networks Ukraine (дочірня компанія німецької Netversor GmbH) запрошує до себе в команду Системного адміністратора / Фахівця Служби техпідтримки. . . .</ns1:description>
+    <ns1:language>uk</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf51ccce26c024085b56195a8d6183db0">
+    <ns1:language>uk</ns1:language>
+    <ns1:description>Основні функції:Обслуговування та конфігурація активного комутаційного обладнання підприємства ( Vlan, OSPF, VPN, IPSec)Обслуговування та конфігурація. . .</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rabota.ua/jobsearch/vacancy_list?keyWords=&amp;regionId=0&amp;parentId=1">
+    <rdf:Bag rdf:nodeID="Nca86afb2146b4f1292778b74d8bd4b75"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N12cdea9f926444b093cb665711c5e85f">
+    <ns1:description>Група компаній «ВЕНБЕСТ» створена в 1991 році і на сьогоднішній день є найбільшою в Україні недержавної охоронної структури, лідером ринку. . .</ns1:description>
+    <ns1:language>uk</ns1:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N280fe791f8ef474c800e94fbf76dca15">
+    <ns1:description>Responsibilities: Working together with our R&amp;D leads to make sure dev, staging, and production are properly planned, set and maintained;Plan and maintain. . .</ns1:description>
+    <ns1:language>en</ns1:language>
+  </rdf:Description>
+</rdf:RDF>
