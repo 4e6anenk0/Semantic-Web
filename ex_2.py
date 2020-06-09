@@ -15,7 +15,7 @@ tree = et.parse("xml_gen.xml")
 root = tree.getroot()
 
 # step 1
-mod_root = translate_text(root, "description", "ru", "en")
+mod_root = translate_text(root, "description", "ru", "uk")
 
 # step 2
 mod_root = replace_text(mod_root, "salary", "Не указано", "0")
@@ -24,9 +24,13 @@ mod_root = replace_text(mod_root, "salary", "Не указано", "0")
 pattern = re.compile(" грн")
 mod_root = formatting_text(mod_root, "salary", pattern, "")
 
-# delete \xa0
+# Delete \xa0
 pattern = re.compile("\xa0")
 mod_root = formatting_text(mod_root, "salary", pattern, "")
+
+pattern = re.compile(" ")
+mod_root = formatting_text(mod_root, "salary", pattern, "")
+
 
 # step 4
 
@@ -36,11 +40,12 @@ mod_root = formatting_text(mod_root, "salary", pattern, "")
 dict_el = {"USD" : "USD", "EUR" : "EUR"}
 mod_root = extend(mod_root, "vacancy", "salary", "salary_list", dict_el, True, "UAH")
 
+#конвертация валют
 for el in mod_root.iter("salary_list"):
     salary = 0
     for sub_el in el:
         if sub_el.tag == "UAH":
-            salary = sub_el.text
+           salary = sub_el.text
         elif sub_el.tag != "UAH":
             sub_el.text = str(int(convert(float(salary), "UAH", sub_el.tag)))
 

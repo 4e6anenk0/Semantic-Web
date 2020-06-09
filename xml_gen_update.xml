@@ -1,25 +1,21 @@
 <?xml version="1.0" ?>
 <vacancies>
     <vacancy ID="0">
-        <name> Business Development Manager TM Canyon
-        </name>
-        <company>ASBIS-Украина</company>
+        <name>Специалист технической поддержки</name>
+        <company>Listex</company>
         <location>Киев</location>
-        <description local="en"> ASBISc Enterprises Plc is one of the leading distributors of Information and Communications Technology products and solutions in EMEA Emerging Markets. . . .
-        </description>
+        <description local="uk">Інноваційної команді розвитку інтернет-метапоіска FMCG-товарів на постоянную работу требуется Спеціаліст технічної підтримки. Необхідні навикі- Чистий ,. . .</description>
         <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
+            <UAH curency="uah">22400</UAH>
+            <USD curency="usd">838</USD>
+            <EUR curency="eur">755</EUR>
         </salary_list>
     </vacancy>
     <vacancy ID="1">
-        <name> Tech Lead with Python Experience, Financial Software Solutions
-        </name>
+        <name>Tech Lead with Python Experience, Financial Software Solutions</name>
         <company>DataArt</company>
         <location>Днепр</location>
-        <description local="en"> THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech Company that is building a trading and risk software platform. . .
-        </description>
+        <description local="en">THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech Company that is building a trading and risk software platform. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -27,25 +23,21 @@
         </salary_list>
     </vacancy>
     <vacancy ID="2">
-        <name> QA Team Lead (Mobile App)
-        </name>
-        <company>appflame</company>
+        <name>It sales specialist</name>
+        <company>MELBUL LTD</company>
         <location>Киев</location>
-        <description local="uk"> Працювати в appflame - можливість розкривати свої здібності в особливих умовах, де сумісні дух стартапу, налаштовані процеси без бюрократії та команда. . .
-        </description>
+        <description local="en">Requirements: Experience in selling marketing services. Sales experience with the European market. Fluent English communication. Ability to work in a multi-cultural. . .</description>
         <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
+            <UAH curency="uah">13000</UAH>
+            <USD curency="usd">486</USD>
+            <EUR curency="eur">438</EUR>
         </salary_list>
     </vacancy>
     <vacancy ID="3">
-        <name> Business Development Manager
-        </name>
-        <company>Bolt</company>
+        <name>Business Development Manager Bang &amp; Olufsen (Ukraine)</name>
+        <company>ASBIS-Украина</company>
         <location>Киев</location>
-        <description local="en"> We are looking for a Business Sales Manager to join our team. You'll be the face of Bolt for Business, identifying potential clients, getting them excited. . .
-        </description>
+        <description local="uk">ASBIS - провідна міжнародна компанія, лідер ринку дистрибуції ІТ-продуктів і рішень, в зв'язку з розвитком напряму, запрошує на роботу Business. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -53,11 +45,10 @@
         </salary_list>
     </vacancy>
     <vacancy ID="4">
-        <name> Junior Android developer
-        </name>
-        <company>NIX Solutions</company>
-        <location>Харьков</location>
-        <description local="en">Android-NIX team is looking for talented developers to create cool mobile apps using the latest technologies. WHAT WE ARE GLAD YOU. . .</description>
+        <name>Програміст 1C (ERP)</name>
+        <company>КТ Украина, ООО</company>
+        <location>Киев</location>
+        <description local="uk">«КТ Україна» - національний лідер у виробництві електроінструменту та будівельних матеріалів таких торгових марок, як Dnipro-М, Foresta, Ataman, Soma Fix. . . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -65,11 +56,10 @@
         </salary_list>
     </vacancy>
     <vacancy ID="5">
-        <name> Full Stack Developer
-        </name>
-        <company>Softo</company>
+        <name>Senior IT Solution Architect</name>
+        <company>Райффайзен Банк Аваль</company>
         <location>Киев</location>
-        <description local="en">We made the world's best file converter, and is now doing the world's best online video editor https: // clideo. comRastem much faster than have time to do. Join :. . .</description>
+        <description local="en">We are looking for a Senior IT Solution Architect to join our motivated, high-performing team in developing our key banking products based on modern, state-of-art. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -77,37 +67,32 @@
         </salary_list>
     </vacancy>
     <vacancy ID="6">
-        <name> Middle Game Designer
-        </name>
-        <company>Mysterytag</company>
+        <name>Программист 1С(7. 7)</name>
+        <company>MakeUp, Интернет Магазин</company>
         <location>Киев</location>
-        <description local="en">The developer and publisher of mobile «MysteryTag» Games game designer is looking for a new mobile online strategy. Our company has produced more than 10 games for mobile. . .</description>
+        <description local="uk">Інтернет-магазину косметики та парфумерії makeup. ua, в зв'язку з розширенням штату, потрібно программіст1С (7. 7). Шукаємо співробітника в штат компанії. Основні. . .</description>
         <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
+            <UAH curency="uah">55000</UAH>
+            <USD curency="usd">2059</USD>
+            <EUR curency="eur">1853</EUR>
         </salary_list>
     </vacancy>
     <vacancy ID="7">
-        <name> IT Solution Architect
-        </name>
-        <company>Райффайзен Банк Аваль</company>
+        <name>Sales manager</name>
+        <company>Бест Вертекс</company>
         <location>Киев</location>
-        <description local="en"> What we need: 3+ years experience with IT architecture and software life cycle of IT systems;theoretical and practical skills with well-known IT architecture. . .
-        </description>
+        <description local="en">«Best Vertex» is an international company which is mainly aimed on consulting and providing service for corporate and individual clients in IT and financial. . .</description>
         <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
+            <UAH curency="uah">30000</UAH>
+            <USD curency="usd">1123</USD>
+            <EUR curency="eur">1011</EUR>
         </salary_list>
     </vacancy>
     <vacancy ID="8">
-        <name> Аналітик бізнес-процесів/Внутрішній контролер
-        </name>
+        <name>Аналітик бізнес-процесів/Внутрішній контролер</name>
         <company>НЕК Укренерго</company>
         <location>Киев</location>
-        <description local="uk"> Національна енергетична компанія «Укренерго» запрошує взяти участь в конкурсі на заміщення вакантної посади Аналітик бізнес-процесів відділу оцінки процесів. . .
-        </description>
+        <description local="uk">Національна енергетична компанія «Укренерго» запрошує взяти участь в конкурсі на заміщення вакантної посади Аналітик бізнес-процесів відділу оцінки процесів. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -115,12 +100,10 @@
         </salary_list>
     </vacancy>
     <vacancy ID="9">
-        <name> Lead Software Developer
-        </name>
-        <company>SMO Group</company>
+        <name>Junior C++ developer</name>
+        <company>Dukascopy Bank SA</company>
         <location>Киев</location>
-        <description local="en"> We are looking for a Lead Software Developer to be based in our Kiev office and become part of our Global IT team. In this role you will report directly. . .
-        </description>
+        <description local="en">We are looking for: Junior C++ developer About the Company Dukascopy Bank SA is an innovative Swiss based bank domiciled and having its headquarters in. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -128,37 +111,32 @@
         </salary_list>
     </vacancy>
     <vacancy ID="10">
-        <name> IT Review specialist for the USA market
-        </name>
-        <company>LimTc</company>
+        <name>Network administrator</name>
+        <company>АШАН</company>
         <location>Киев</location>
-        <description local="en"> About LimTC © Limitless Technology Consultants LLC: We're a leading Ukrainian out-staffing company that works with international companies on a long-term. . .
-        </description>
+        <description local="uk">Основні функції:Обслуговування та конфігурація активного комутаційного обладнання підприємства ( Vlan, OSPF, VPN, IPSec)Обслуговування та конфігурація. . .</description>
         <salary_list>
-            <UAH curency="uah">18000</UAH>
-            <USD curency="usd">674</USD>
-            <EUR curency="eur">606</EUR>
+            <UAH curency="uah">Не указано</UAH>
+            <USD curency="usd">Не указано</USD>
+            <EUR curency="eur">Не указано</EUR>
         </salary_list>
     </vacancy>
     <vacancy ID="11">
-        <name> Mlodszy specjalista ds. ochrony srodowiska
-        </name>
-        <company>Prohabitat</company>
+        <name>Бізнес-аналітик 1С</name>
+        <company>ГК Аскания</company>
         <location>Киев</location>
-        <description local="pl"> Kim jestesmy Jestesmy kilkuosobowa nowoczesna firma pomagajaca przedsiebiorstwom w dostosowywaniu sie do wymogow prawa ochrony srodowiska. Sporzadzamy. . .
-        </description>
+        <description local="uk">Група компаній «Асканія», багатопрофільний український холдинг, який включає 12 компаній різних напрямів діяльності, запрошує до команди: «Бізнес-аналітика. . .</description>
         <salary_list>
-            <UAH curency="uah">12000</UAH>
-            <USD curency="usd">449</USD>
-            <EUR curency="eur">404</EUR>
+            <UAH curency="uah">Не указано</UAH>
+            <USD curency="usd">Не указано</USD>
+            <EUR curency="eur">Не указано</EUR>
         </salary_list>
     </vacancy>
     <vacancy ID="12">
-        <name> Аккаунт-менеджер со знанием турецкого языка
-        </name>
-        <company>Lime Devs</company>
-        <location>Киев</location>
-        <description local="en">Who do we need? Specialist who will implement, develop and maintain high quality standards of service to our customers. We offer: Work. . .</description>
+        <name>Front-end developer (Angular 6+)</name>
+        <company>NIX Solutions</company>
+        <location>Харьков</location>
+        <description local="uk">Ми шукаємо в команду розробників зі знанням Angular 6+ для проектування і створення SaaS-платформи надання послуг смарт-пристроїв, яка розширить. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -166,24 +144,21 @@
         </salary_list>
     </vacancy>
     <vacancy ID="13">
-        <name> Аккаунт - менеджер со знанием польского языка
-        </name>
-        <company>Lime Devs</company>
+        <name>Системный администратор (Linux, Windows)</name>
+        <company>SIM-Networks</company>
         <location>Киев</location>
-        <description local="en">The product IT-company, which is engaged in software development and promotion of it to the end user, set to open position. . .</description>
+        <description local="uk">Sim-Networks Ukraine (дочірня компанія німецької Netversor GmbH) запрошує до себе в команду Системного адміністратора / Фахівця Служби техпідтримки. . . .</description>
         <salary_list>
-            <UAH curency="uah">20000</UAH>
-            <USD curency="usd">749</USD>
-            <EUR curency="eur">674</EUR>
+            <UAH curency="uah">Не указано</UAH>
+            <USD curency="usd">Не указано</USD>
+            <EUR curency="eur">Не указано</EUR>
         </salary_list>
     </vacancy>
     <vacancy ID="14">
-        <name> Програміст PHP (Bitrix 24)
-        </name>
-        <company>АВ Металл Групп</company>
-        <location>Днепр</location>
-        <description local="uk"> АВ метал груп - один із лідерів в сфері трейдингу металопрокату. Ми розвиваємо свою діяльність з 2009 року. На сьогодні компанія налічує 270 роздрібних. . .
-        </description>
+        <name>Senior DevOps Engineer</name>
+        <company>Нова Пошта, ТОВ / Новая Почта</company>
+        <location>Киев</location>
+        <description local="en">Responsibilities: Working together with our R&amp;D leads to make sure dev, staging, and production are properly planned, set and maintained;Plan and maintain. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -191,12 +166,10 @@
         </salary_list>
     </vacancy>
     <vacancy ID="15">
-        <name> Middle Java Developer
-        </name>
-        <company>Райффайзен Банк Аваль</company>
-        <location>Киев</location>
-        <description local="en"> What do you need:2+ years of commercial experience with Java 8 +1+ years of writing unit-test2+ years of using jdbc, xml, mq, web-service's2+ years using. . .
-        </description>
+        <name>Senior BigData Engineer, Financial Software Solutions</name>
+        <company>DataArt</company>
+        <location>Днепр</location>
+        <description local="en">Our client is a New York City-based FinTech startup that is building a trading and risk software platform for the investment banking industry to sell as. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
@@ -204,51 +177,47 @@
         </salary_list>
     </vacancy>
     <vacancy ID="16">
-        <name> Middle C++ Developer (UE4)
-        </name>
-        <company>Pingle Game Studio</company>
+        <name>Программист-схемотехник (протокол CAN)</name>
+        <company>ПОЛАРИС САТЕЛЛИТ</company>
+        <location>Киев</location>
+        <description local="uk">Вимоги: Програміст вбудованого автомобільного устаткування, знайомий з CAN-шиною автомобіля; Здатність написати програму під Windows для управління. . .</description>
+        <salary_list>
+            <UAH curency="uah">15000</UAH>
+            <USD curency="usd">561</USD>
+            <EUR curency="eur">505</EUR>
+        </salary_list>
+    </vacancy>
+    <vacancy ID="17">
+        <name>WAY4 Expert, Global Acquiring Platform</name>
+        <company>DataArt</company>
         <location>Днепр</location>
-        <description local="en">Hello! We Pingle Game Studio, an independent game developer, are in search of an integral part of our team, namely Middle C ++ Developer. . . .</description>
+        <description local="en">Our client is a European acquiring bank that specializes in processing Internet payments based on the WAY4 payment platform. DataArt's specialists are. . .</description>
         <salary_list>
             <UAH curency="uah">Не указано</UAH>
             <USD curency="usd">Не указано</USD>
             <EUR curency="eur">Не указано</EUR>
         </salary_list>
     </vacancy>
-    <vacancy ID="17">
-        <name> Customer Service Manager (German/English/Dutch)
-        </name>
-        <company>Management Experts</company>
-        <location>Киев</location>
-        <description local="en">The company is looking for Customer Service Managers (may be without experience) who own English / German / Dutch at an advanced level. We give you the opportunity to learn and develop. . . .</description>
-        <salary_list>
-            <UAH curency="uah">35000</UAH>
-            <USD curency="usd">1310</USD>
-            <EUR curency="eur">1179</EUR>
-        </salary_list>
-    </vacancy>
     <vacancy ID="18">
-        <name> Программист 1С
-        </name>
-        <company>ВЕНБЕСТ, ООО </company>
-        <location>Киев</location>
-        <description local="en">Group of companies &quot;VENBEST&quot; was established in 1991 and today is the largest in Ukraine of non-state security structures, the market leader. . .</description>
+        <name>Certified PEGA Engineer</name>
+        <company>DataArt</company>
+        <location>Днепр</location>
+        <description local="en">DataArt is looking for a specialist with Pega expertise to maximize the potential of the Pega Platform. The client is a British-based public healthcare. . .</description>
         <salary_list>
-            <UAH curency="uah">35000</UAH>
-            <USD curency="usd">1310</USD>
-            <EUR curency="eur">1179</EUR>
+            <UAH curency="uah">Не указано</UAH>
+            <USD curency="usd">Не указано</USD>
+            <EUR curency="eur">Не указано</EUR>
         </salary_list>
     </vacancy>
     <vacancy ID="19">
-        <name> Game Designer
-        </name>
-        <company>ViraGames</company>
+        <name>Программист 1С</name>
+        <company>ВЕНБЕСТ, ООО</company>
         <location>Киев</location>
-        <description local="en">Requirements: Understanding how the market is hyper-casual mobile games. Ability to clearly and unambiguously express thoughts - orally and in writing. A thorough understanding of the system. . .</description>
+        <description local="uk">Група компаній «ВЕНБЕСТ» створена в 1991 році і на сьогоднішній день є найбільшою в Україні недержавної охоронної структури, лідером ринку. . .</description>
         <salary_list>
-            <UAH curency="uah">25000</UAH>
-            <USD curency="usd">936</USD>
-            <EUR curency="eur">842</EUR>
+            <UAH curency="uah">Не указано</UAH>
+            <USD curency="usd">Не указано</USD>
+            <EUR curency="eur">Не указано</EUR>
         </salary_list>
     </vacancy>
 </vacancies>

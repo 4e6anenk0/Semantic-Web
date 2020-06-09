@@ -1,182 +1,142 @@
 <vacancies>
     <vacancy>
-        <name> Business Development Manager TM Canyon
-</name>
-        <company>ASBIS-Украина</company>
-        <salary>Не указано</salary>
+        <name>Специалист технической поддержки</name>
+        <company>Listex</company>
+        <salary>22 400 грн</salary>
         <location>Киев</location>
-        <description> ASBISc Enterprises Plc is one of the leading distributors of Information and Communications Technology products and solutions in EMEA Emerging Markets. . . .
-</description>
+        <description>Инновационной команде развития интернет-метапоиска FMCG-товаров на постоянную работу требуется Специалист технической поддержки. Необходимые навыки- Чистая,. . .</description>
     </vacancy>
     <vacancy>
-        <name> Tech Lead with Python Experience, Financial Software Solutions
-</name>
+        <name>Tech Lead with Python Experience, Financial Software Solutions</name>
         <company>DataArt</company>
         <salary>Не указано</salary>
         <location>Днепр</location>
-        <description> THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech Company that is building a trading and risk software platform. . .
-</description>
+        <description>THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech Company that is building a trading and risk software platform. . .</description>
     </vacancy>
     <vacancy>
-        <name> QA Team Lead (Mobile App)
-</name>
-        <company>appflame</company>
+        <name>It sales specialist</name>
+        <company>MELBUL LTD</company>
+        <salary>13 000 грн</salary>
+        <location>Киев</location>
+        <description>Requirements: Experience in selling marketing services. Sales experience with the European market. Fluent English communication. Ability to work in a multi-cultural. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Business Development Manager Bang &amp; Olufsen (Ukraine)</name>
+        <company>ASBIS-Украина</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description> Працювати в appflame - можливість розкривати свої здібності в особливих умовах, де сумісні дух стартапу, налаштовані процеси без бюрократії та команда. . .
-</description>
+        <description>ASBIS - ведущая международная компания, лидер рынка дистрибуции ИТ-продуктов и решений, в связи с развитием направления, приглашает на работу Business. . .</description>
     </vacancy>
     <vacancy>
-        <name> Business Development Manager
-</name>
-        <company>Bolt</company>
+        <name>Програміст 1C (ERP)</name>
+        <company>КТ Украина, ООО</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description> We are looking for a Business Sales Manager to join our team. You'll be the face of Bolt for Business, identifying potential clients, getting them excited. . .
-</description>
+        <description>«КТ Україна» - національний лідер у виробництві електроінструменту та будівельних матеріалів таких торгових марок, як Dnipro-М, Foresta, Ataman, Soma Fix. . . .</description>
     </vacancy>
     <vacancy>
-        <name> Junior Android developer
-</name>
-        <company>NIX Solutions</company>
-        <salary>Не указано</salary>
-        <location>Харьков</location>
-        <description> Android-команда NIX ищет талантливых разработчиков для создания крутых мобильных приложений, с использованием современных технологий. ЧТО МЫ РАДЫ ТЕБЕ. . .
-</description>
-    </vacancy>
-    <vacancy>
-        <name> Full Stack Developer
-</name>
-        <company>Softo</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Мы сделали лучший в мире конвертер файлов, а сейчас делаем лучший в мире онлайн-редактор видео https://clideo. comРастем сильно быстрее, чем успеваем делать. Присоединяйся:. . .
-</description>
-    </vacancy>
-    <vacancy>
-        <name> Middle Game Designer
-</name>
-        <company>Mysterytag</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description> Разработчик и издатель мобильных игр «MysteryTag» ищет геймдизайнера для новой мобильной онлайн стратегии. Наша компания выпустила более 10 игр для мобильных. . .
-</description>
-    </vacancy>
-    <vacancy>
-        <name> IT Solution Architect
-</name>
+        <name>Senior IT Solution Architect</name>
         <company>Райффайзен Банк Аваль</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description> What we need: 3+ years experience with IT architecture and software life cycle of IT systems;theoretical and practical skills with well-known IT architecture. . .
-</description>
+        <description>We are looking for a Senior IT Solution Architect to join our motivated, high-performing team in developing our key banking products based on modern, state-of-art. . .</description>
     </vacancy>
     <vacancy>
-        <name> Аналітик бізнес-процесів/Внутрішній контролер
-</name>
+        <name>Программист 1С(7. 7)</name>
+        <company>MakeUp, Интернет Магазин</company>
+        <salary>55 000 грн</salary>
+        <location>Киев</location>
+        <description>Интернет-магазину косметики и парфюмерии makeup. ua, в связи с расширением штата, требуется программист1С (7. 7). Ищем сотрудника в штат компании. Основные. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Sales manager</name>
+        <company>Бест Вертекс</company>
+        <salary>30 000 грн</salary>
+        <location>Киев</location>
+        <description>«Best Vertex» is an international company which is mainly aimed on consulting and providing service for corporate and individual clients in IT and financial. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Аналітик бізнес-процесів/Внутрішній контролер</name>
         <company>НЕК Укренерго</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description> Національна енергетична компанія «Укренерго» запрошує взяти участь в конкурсі на заміщення вакантної посади Аналітик бізнес-процесів відділу оцінки процесів. . .
-</description>
+        <description>Національна енергетична компанія «Укренерго» запрошує взяти участь в конкурсі на заміщення вакантної посади Аналітик бізнес-процесів відділу оцінки процесів. . .</description>
     </vacancy>
     <vacancy>
-        <name> Lead Software Developer
-</name>
-        <company>SMO Group</company>
+        <name>Junior C++ developer</name>
+        <company>Dukascopy Bank SA</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description> We are looking for a Lead Software Developer to be based in our Kiev office and become part of our Global IT team. In this role you will report directly. . .
-</description>
+        <description>We are looking for: Junior C++ developer About the Company Dukascopy Bank SA is an innovative Swiss based bank domiciled and having its headquarters in. . .</description>
     </vacancy>
     <vacancy>
-        <name> IT Review specialist for the USA market
-</name>
-        <company>LimTc</company>
-        <salary>18 000 грн</salary>
-        <location>Киев</location>
-        <description> About LimTC © Limitless Technology Consultants LLC: We're a leading Ukrainian out-staffing company that works with international companies on a long-term. . .
-</description>
-    </vacancy>
-    <vacancy>
-        <name> Mlodszy specjalista ds. ochrony srodowiska
-</name>
-        <company>Prohabitat</company>
-        <salary>12 000 грн</salary>
-        <location>Киев</location>
-        <description> Kim jestesmy Jestesmy kilkuosobowa nowoczesna firma pomagajaca przedsiebiorstwom w dostosowywaniu sie do wymogow prawa ochrony srodowiska. Sporzadzamy. . .
-</description>
-    </vacancy>
-    <vacancy>
-        <name> Аккаунт-менеджер со знанием турецкого языка
-</name>
-        <company>Lime Devs</company>
+        <name>Network administrator</name>
+        <company>АШАН</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description> Кто нам нужен?Специалист, который будет внедрять, развивать и поддерживать высокие стандарты качества обслуживания наших клиентов. Мы предлагаем:Работу. . .
-</description>
+        <description>Основні функції:Обслуговування та конфігурація активного комутаційного обладнання підприємства ( Vlan, OSPF, VPN, IPSec)Обслуговування та конфігурація. . .</description>
     </vacancy>
     <vacancy>
-        <name> Аккаунт - менеджер со знанием польского языка
-</name>
-        <company>Lime Devs</company>
-        <salary>20 000 грн</salary>
+        <name>Бізнес-аналітик 1С</name>
+        <company>ГК Аскания</company>
+        <salary>Не указано</salary>
         <location>Киев</location>
-        <description> В продуктовую IT-компанию, которая занимается разработкой программного обеспечения и продвижением его до конечного пользователя, открыт набор на позицию. . .
-</description>
+        <description>Група компаній «Асканія», багатопрофільний український холдинг, який включає 12 компаній різних напрямів діяльності, запрошує до команди: «Бізнес-аналітика. . .</description>
     </vacancy>
     <vacancy>
-        <name> Програміст PHP (Bitrix 24)
-</name>
-        <company>АВ Металл Групп</company>
+        <name>Front-end developer (Angular 6+)</name>
+        <company>NIX Solutions</company>
+        <salary>Не указано</salary>
+        <location>Харьков</location>
+        <description>Мы ищем в команду разработчиков со знанием Angular 6+ для проектирования и создания SaaS-платформы предоставления услуг смарт-устройств, которая расширит. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Системный администратор (Linux, Windows)</name>
+        <company>SIM-Networks</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>Sim-Networks Ukraine (дочерняя компания немецкой Netversor GmbH) приглашает к себе в команду Системного администратора / Специалиста Службы техподдержки. . . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Senior DevOps Engineer</name>
+        <company>Нова Пошта, ТОВ / Новая Почта</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>Responsibilities: Working together with our R&amp;D leads to make sure dev, staging, and production are properly planned, set and maintained;Plan and maintain. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Senior BigData Engineer, Financial Software Solutions</name>
+        <company>DataArt</company>
         <salary>Не указано</salary>
         <location>Днепр</location>
-        <description> АВ метал груп - один із лідерів в сфері трейдингу металопрокату. Ми розвиваємо свою діяльність з 2009 року. На сьогодні компанія налічує 270 роздрібних. . .
-</description>
+        <description>Our client is a New York City-based FinTech startup that is building a trading and risk software platform for the investment banking industry to sell as. . .</description>
     </vacancy>
     <vacancy>
-        <name> Middle Java Developer
-</name>
-        <company>Райффайзен Банк Аваль</company>
-        <salary>Не указано</salary>
+        <name>Программист-схемотехник (протокол CAN)</name>
+        <company>ПОЛАРИС САТЕЛЛИТ</company>
+        <salary>15 000 грн</salary>
         <location>Киев</location>
-        <description> What do you need:2+ years of commercial experience with Java 8 +1+ years of writing unit-test2+ years of using jdbc, xml, mq, web-service's2+ years using. . .
-</description>
+        <description>Требования: Программист встроенного автомобильного оборудования, знакомый с CAN-шиной автомобиля;Способность написать программу под Windows для управления. . .</description>
     </vacancy>
     <vacancy>
-        <name> Middle C++ Developer (UE4)
-</name>
-        <company>Pingle Game Studio</company>
+        <name>WAY4 Expert, Global Acquiring Platform</name>
+        <company>DataArt</company>
         <salary>Не указано</salary>
         <location>Днепр</location>
-        <description> Привет!Мы Pingle Game Studio, независимый разработчик компьютерных игр, находимся в поиске неотъемлемой части нашей команды, а именно Middle C++ Developer. . . .
-</description>
+        <description>Our client is a European acquiring bank that specializes in processing Internet payments based on the WAY4 payment platform. DataArt's specialists are. . .</description>
     </vacancy>
     <vacancy>
-        <name> Customer Service Manager (German/English/Dutch)
-</name>
-        <company>Management Experts</company>
-        <salary>35 000 грн</salary>
-        <location>Киев</location>
-        <description> Компания ищет Customer Service Managers (можно без опыта), владеющих English/ German/ Dutch на продвинутом уровне. Мы даем Вам возможность учиться и развиваться. . . .
-</description>
+        <name>Certified PEGA Engineer</name>
+        <company>DataArt</company>
+        <salary>Не указано</salary>
+        <location>Днепр</location>
+        <description>DataArt is looking for a specialist with Pega expertise to maximize the potential of the Pega Platform. The client is a British-based public healthcare. . .</description>
     </vacancy>
     <vacancy>
-        <name> Программист 1С
-</name>
-        <company>ВЕНБЕСТ, ООО </company>
-        <salary>35 000 грн</salary>
+        <name>Программист 1С</name>
+        <company>ВЕНБЕСТ, ООО</company>
+        <salary>Не указано</salary>
         <location>Киев</location>
-        <description> Группа компаний «ВЕНБЕСТ» создана в 1991 году и на сегодняшний день является крупнейшей в Украине негосударственной охранной структурой, лидером рынка. . .
-</description>
-    </vacancy>
-    <vacancy>
-        <name> Game Designer
-</name>
-        <company>ViraGames</company>
-        <salary>25 000 грн</salary>
-        <location>Киев</location>
-        <description> Требования:Понимание как устроен рынок hyper-casual мобильных игр. Умение ясно и однозначно излагать мысли - устно и письменно. Глубокое понимание системного. . .
-</description>
+        <description>Группа компаний «ВЕНБЕСТ» создана в 1991 году и на сегодняшний день является крупнейшей в Украине негосударственной охранной структурой, лидером рынка. . .</description>
     </vacancy>
 </vacancies>

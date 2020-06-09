@@ -1,6 +1,6 @@
 from xml.dom import minidom
 from xml.etree.ElementTree import ElementTree, SubElement
-from lxml import html
+from lxml import html, etree
 from core.former import Former
 import googletrans as translate
 import langid
@@ -29,6 +29,7 @@ def create_tag(name: str=None, text: str=None, attributes: dict=None, *, cdata: 
     return tag
 
 def formatting(text: str):
+    text = ' '.join(text.split())
     text = re.sub(r'(?<=[.])(?=[^\s])', r' ', text)
     return text
 
@@ -130,3 +131,8 @@ def add_local_attr(root: object, where: str):
         el.set("local", langid.classify(el.text)[0])
     return root
 
+# laba 3
+
+def my_xpath(root: object, xpath: str):
+    query = etree.XPath(xpath)
+    return query(root)
