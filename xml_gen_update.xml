@@ -1,223 +1,443 @@
 <?xml version="1.0" ?>
 <vacancies>
-    <vacancy ID="0">
-        <name>Специалист технической поддержки</name>
-        <company>Listex</company>
-        <location>Киев</location>
-        <description local="uk">Інноваційної команді розвитку інтернет-метапоіска FMCG-товарів на постоянную работу требуется Спеціаліст технічної підтримки. Необхідні навикі- Чистий ,. . .</description>
-        <salary_list>
-            <UAH curency="uah">22400</UAH>
-            <USD curency="usd">838</USD>
-            <EUR curency="eur">755</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="1">
-        <name>Tech Lead with Python Experience, Financial Software Solutions</name>
-        <company>DataArt</company>
-        <location>Днепр</location>
-        <description local="en">THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech Company that is building a trading and risk software platform. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="2">
-        <name>It sales specialist</name>
-        <company>MELBUL LTD</company>
-        <location>Киев</location>
-        <description local="en">Requirements: Experience in selling marketing services. Sales experience with the European market. Fluent English communication. Ability to work in a multi-cultural. . .</description>
-        <salary_list>
-            <UAH curency="uah">13000</UAH>
-            <USD curency="usd">486</USD>
-            <EUR curency="eur">438</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="3">
-        <name>Business Development Manager Bang &amp; Olufsen (Ukraine)</name>
-        <company>ASBIS-Украина</company>
-        <location>Киев</location>
-        <description local="uk">ASBIS - провідна міжнародна компанія, лідер ринку дистрибуції ІТ-продуктів і рішень, в зв'язку з розвитком напряму, запрошує на роботу Business. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="4">
-        <name>Програміст 1C (ERP)</name>
-        <company>КТ Украина, ООО</company>
-        <location>Киев</location>
-        <description local="uk">«КТ Україна» - національний лідер у виробництві електроінструменту та будівельних матеріалів таких торгових марок, як Dnipro-М, Foresta, Ataman, Soma Fix. . . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="5">
-        <name>Senior IT Solution Architect</name>
-        <company>Райффайзен Банк Аваль</company>
-        <location>Киев</location>
-        <description local="en">We are looking for a Senior IT Solution Architect to join our motivated, high-performing team in developing our key banking products based on modern, state-of-art. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="6">
-        <name>Программист 1С(7. 7)</name>
-        <company>MakeUp, Интернет Магазин</company>
-        <location>Киев</location>
-        <description local="uk">Інтернет-магазину косметики та парфумерії makeup. ua, в зв'язку з розширенням штату, потрібно программіст1С (7. 7). Шукаємо співробітника в штат компанії. Основні. . .</description>
-        <salary_list>
-            <UAH curency="uah">55000</UAH>
-            <USD curency="usd">2059</USD>
-            <EUR curency="eur">1853</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="7">
-        <name>Sales manager</name>
-        <company>Бест Вертекс</company>
-        <location>Киев</location>
-        <description local="en">«Best Vertex» is an international company which is mainly aimed on consulting and providing service for corporate and individual clients in IT and financial. . .</description>
-        <salary_list>
-            <UAH curency="uah">30000</UAH>
-            <USD curency="usd">1123</USD>
-            <EUR curency="eur">1011</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="8">
-        <name>Аналітик бізнес-процесів/Внутрішній контролер</name>
-        <company>НЕК Укренерго</company>
-        <location>Киев</location>
-        <description local="uk">Національна енергетична компанія «Укренерго» запрошує взяти участь в конкурсі на заміщення вакантної посади Аналітик бізнес-процесів відділу оцінки процесів. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="9">
-        <name>Junior C++ developer</name>
-        <company>Dukascopy Bank SA</company>
-        <location>Киев</location>
-        <description local="en">We are looking for: Junior C++ developer About the Company Dukascopy Bank SA is an innovative Swiss based bank domiciled and having its headquarters in. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="10">
-        <name>Network administrator</name>
-        <company>АШАН</company>
-        <location>Киев</location>
-        <description local="uk">Основні функції:Обслуговування та конфігурація активного комутаційного обладнання підприємства ( Vlan, OSPF, VPN, IPSec)Обслуговування та конфігурація. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="11">
-        <name>Бізнес-аналітик 1С</name>
-        <company>ГК Аскания</company>
-        <location>Киев</location>
-        <description local="uk">Група компаній «Асканія», багатопрофільний український холдинг, який включає 12 компаній різних напрямів діяльності, запрошує до команди: «Бізнес-аналітика. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="12">
-        <name>Front-end developer (Angular 6+)</name>
-        <company>NIX Solutions</company>
-        <location>Харьков</location>
-        <description local="uk">Ми шукаємо в команду розробників зі знанням Angular 6+ для проектування і створення SaaS-платформи надання послуг смарт-пристроїв, яка розширить. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="13">
-        <name>Системный администратор (Linux, Windows)</name>
-        <company>SIM-Networks</company>
-        <location>Киев</location>
-        <description local="uk">Sim-Networks Ukraine (дочірня компанія німецької Netversor GmbH) запрошує до себе в команду Системного адміністратора / Фахівця Служби техпідтримки. . . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="14">
-        <name>Senior DevOps Engineer</name>
-        <company>Нова Пошта, ТОВ / Новая Почта</company>
-        <location>Киев</location>
-        <description local="en">Responsibilities: Working together with our R&amp;D leads to make sure dev, staging, and production are properly planned, set and maintained;Plan and maintain. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="15">
-        <name>Senior BigData Engineer, Financial Software Solutions</name>
-        <company>DataArt</company>
-        <location>Днепр</location>
-        <description local="en">Our client is a New York City-based FinTech startup that is building a trading and risk software platform for the investment banking industry to sell as. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="16">
-        <name>Программист-схемотехник (протокол CAN)</name>
-        <company>ПОЛАРИС САТЕЛЛИТ</company>
-        <location>Киев</location>
-        <description local="uk">Вимоги: Програміст вбудованого автомобільного устаткування, знайомий з CAN-шиною автомобіля; Здатність написати програму під Windows для управління. . .</description>
-        <salary_list>
-            <UAH curency="uah">15000</UAH>
-            <USD curency="usd">561</USD>
-            <EUR curency="eur">505</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="17">
-        <name>WAY4 Expert, Global Acquiring Platform</name>
-        <company>DataArt</company>
-        <location>Днепр</location>
-        <description local="en">Our client is a European acquiring bank that specializes in processing Internet payments based on the WAY4 payment platform. DataArt's specialists are. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="18">
-        <name>Certified PEGA Engineer</name>
-        <company>DataArt</company>
-        <location>Днепр</location>
-        <description local="en">DataArt is looking for a specialist with Pega expertise to maximize the potential of the Pega Platform. The client is a British-based public healthcare. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
-    <vacancy ID="19">
-        <name>Программист 1С</name>
-        <company>ВЕНБЕСТ, ООО</company>
-        <location>Киев</location>
-        <description local="uk">Група компаній «ВЕНБЕСТ» створена в 1991 році і на сьогоднішній день є найбільшою в Україні недержавної охоронної структури, лідером ринку. . .</description>
-        <salary_list>
-            <UAH curency="uah">Не указано</UAH>
-            <USD curency="usd">Не указано</USD>
-            <EUR curency="eur">Не указано</EUR>
-        </salary_list>
-    </vacancy>
+	<vacancy ID="0">
+		<name>Customer Support Consultant (German/Polish/Spanish/Korean/French/Italian)</name>
+		<company>SupportYourApp</company>
+		<location>Киев</location>
+		<description local="en">Micro-mobility is the future of travel. Agree? Are you passionate about mobile devices for moving around the city and modern technologies? Join our team. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="1">
+		<name>Senior React Native developer</name>
+		<company>NIX Solutions</company>
+		<location>Харьков</location>
+		<description local="uk">Наша команда шукає Senior React Native developer, який очолить розробку мобільного клієнта з чат ботом під iOS / Android. Проект - система взаємодії. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="2">
+		<name>Менеджер по продажам</name>
+		<company>LOPAN group</company>
+		<location>Харьков</location>
+		<description local="uk">LOPAN group », 15 років продаємо, впроваджуємо і підтримуємо програмні продукти« 1С »,« M. E. Doc »,« LIGA: ZAKON », знаємо абсолютно все про електронний документообіг. . .</description>
+		<salary_list>
+			<UAH curency="uah">15000</UAH>
+			<USD curency="usd">561</USD>
+			<EUR curency="eur">505</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="3">
+		<name>Data Scientist / BI Analyst</name>
+		<company>Factum Group</company>
+		<location>Киев</location>
+		<description local="uk">Data Scientist / BI Analyst - в динамічно зростаючу команду Factum Group Вимоги: Вища освіта: computer science, data science, статистика, маркетинг. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="4">
+		<name>Senior/Lead . NET developer</name>
+		<company>Edsson Ukraine LLC</company>
+		<location>Киев</location>
+		<description local="la">Требования: Experience with Azure, ASP. NET MVC, Entity Framework, SQL Server or NServiceBus are considered assetsBachelor's degree in (Applied) Computer. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="5">
+		<name>Программист 1C</name>
+		<company>РАЙСЬКЕ ДЖЕРЕЛО, ДП</company>
+		<location>Киев</location>
+		<description local="uk">«Райське Джерело» (https: // www. Eden. Com. Ua /) - провідна компанія на ринку України в напрямку Aqua-service (доставка і виробництв бутильованої води...</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="6">
+		<name>Головний фахівець з інформаційної та кадрової безпеки</name>
+		<company>Укргазвидобування, АТ</company>
+		<location>Киев</location>
+		<description local="uk">Потенційний пошукШановні кандидати, у зв'язку з карантинними запобіжними заходами співбесіди проводитимуться онлайн або після закінчення карантину. Забезпечувати. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="7">
+		<name>. NET Senior (Middle) Developer</name>
+		<company>ISM Ukraine</company>
+		<location>Житомир</location>
+		<description local="en">Looking for a full-time job in the Zhytomyr office?Then you should definitely take a look at our vacancy! ISM Ukraine is the Ukrainian R&amp;D of the Dutch. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="8">
+		<name>WAY4 Expert, Global Acquiring Platform</name>
+		<company>DataArt</company>
+		<location>Киев</location>
+		<description local="en">Our client develops solutions for acquiring payments. They have created a global automated online payment platform that specializes in the processing of. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="9">
+		<name>System Administrator (with scripting) / DevOps</name>
+		<company>Onseo</company>
+		<location>Киев</location>
+		<description local="en">We're looking for a person to join our team with a strong system and technological background who we'll be responsible for supporting large, international. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="10">
+		<name>Senior BigData Engineer, Financial Software Solutions</name>
+		<company>DataArt</company>
+		<location>Днепр</location>
+		<description local="en">Our client is a New York City-based FinTech startup that is building a trading and risk software platform for the investment banking industry to sell as. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="11">
+		<name>Customer Support Manager (EN + DE)</name>
+		<company>JavaRush</company>
+		<location>Киев</location>
+		<description local="uk">Цікавишся ІТ, любиш і вмієш спілкуватися з людьми? Грамотно формулюєш свої думки в письмовому вигляді і володієш стресостійкість? Можеш помирити. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="12">
+		<name>Angular Developer</name>
+		<company>Epom</company>
+		<location>Киев</location>
+		<description local="en">Epom is a cross-platform ad-serving platform for ad campaigns management, monitoring and optimization. Epom provides customers with a unified platform. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="13">
+		<name>Senior 3d artist</name>
+		<company>4A GAMES Ltd.</company>
+		<location>Другие страны</location>
+		<description local="en">Work closely with Designers, Concept Artists, and Art Directors to create man-made and natural objects, parts of levels, and playable scenery. REQUIREMENTSA. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="14">
+		<name>Senior Manual QA</name>
+		<company>Genesis</company>
+		<location>Киев</location>
+		<description local="uk">Genesis - одна з найбільших IT-компаній в Україні: це понад 1500 осіб в 8 країнах, які створюють продукти для 200 мільйонів користувачів щомісяця. Наша. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="15">
+		<name>Middle . Net developer</name>
+		<company>Edsson Ukraine LLC</company>
+		<location>Киев</location>
+		<description local="la">Требования: At least 3 years of experience in . NET projectsExperience with Azure, ASP. NET MVC, Entity Framework, SQL Server or NServiceBus are considered. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="16">
+		<name>Senior Automation QA Engineer (Python)</name>
+		<company>NIX Solutions</company>
+		<location>Харьков</location>
+		<description local="uk">У новий і крутий healthcare проект потрібно такий же крутий Senior AQA Python Engineer. Нам потрібні фахівці, які готові побудувати хорошу автоматизацію. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="17">
+		<name>Sales Development Representative (Remote)</name>
+		<company>CIENCE Technologies</company>
+		<location>Львов</location>
+		<description local="en">CIENCE Technologies is a Top B2B Lead Generation Services Firm with its headquarters in San Francisco and six more offices worldwide. Recognized in 2020. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="18">
+		<name>Senior Python Engineer.</name>
+		<company>Codeminders</company>
+		<location>Киев</location>
+		<description local="en">Codeminders is looking for a Senior Python Engineer. Requirements:Experience in designing, building and debugging large distributed systemsProficiency in. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="19">
+		<name>Embedded Software Developer, C++</name>
+		<company>EKTOS</company>
+		<location>Харьков</location>
+		<description local="en">We are looking for Embedded Software Developer to our office in Kharkiv who has: Good theoretical and practical knowledge of CGood theoretical and practical. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="20">
+		<name>SEO специалист</name>
+		<company>Ольшанский и партнеры</company>
+		<location>Киев</location>
+		<description local="uk">Цифрове консалтингове агентство «Ольшанський і партнери» запрошує до співпраці досвідченого SEO-фахівця. Вимоги: Успішний досвід роботи з проектами. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="21">
+		<name>Технический писатель</name>
+		<company>Бинотел, ТОВ</company>
+		<location>Киев</location>
+		<description local="uk">Ми - Binotel - лідер ринку бізнес-телефонії, у нас 15 000 клієнтів, і ми робимо український бізнес сильніше вже 7 років. Ми пропонуємо ринку супер корисні. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="22">
+		<name>Senior Java Engineer</name>
+		<company>Codeminders</company>
+		<location>Киев</location>
+		<description local="en">We are looking for Senior Java EngineerRequirements:BS or MS in Computer Science or related fieldSignificant experience in Java8 (Core, Networking, RES,. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="23">
+		<name>Менеджер по продажам в (ИТ SaaS Продукт)</name>
+		<company>FOKS</company>
+		<location>Киев</location>
+		<description local="uk">FOKS - мультиканальна платформа для продажу товарів на маркетплейсах. Наш сервіс є ІТ продуктом, який затребуваний в сегменті e-commerce? Skills: Навичка. . .</description>
+		<salary_list>
+			<UAH curency="uah">27000</UAH>
+			<USD curency="usd">1011</USD>
+			<EUR curency="eur">910</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="24">
+		<name>Керівник Відділу системного аналізу</name>
+		<company>Piraeus Bank ICB</company>
+		<location>Киев</location>
+		<description local="uk">Хто ми?Ми - європейський банк, 11 років успішного бізнесу в Україні, 100 років в Європі. Регіональна мережа «Піреус Банку» в Україні охоплює Дніпропетровську,. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="25">
+		<name>Middle SEO-специалист</name>
+		<company>Osiris Unlimited</company>
+		<location>Киев</location>
+		<description local="uk">Компанія Osiris Unlimited шукає Middle SEO-фахівця c досвідом просування в конкурентних нішах. Нам потрібен досвідчений SEO-фахівець, який самостійно. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="26">
+		<name>Acquiring Platform Architect</name>
+		<company>DataArt</company>
+		<location>Киев</location>
+		<description local="en">Our client is a European acquiring bank that specializes in processing Internet payments based on the WAY4 payment platform. DataArt's specialists are. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="27">
+		<name>Програміст 1С</name>
+		<company>ПРОВИДНА, СК, Частное акционерное общество</company>
+		<location>Киев</location>
+		<description local="uk">Страхова компанія «ПРОВІДНА» - 25 років визнаної якості і стабільності на страховому ринку України, запрошує на роботу: ПРОГРАМІСТА 1С Для нас важливі. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="28">
+		<name>Менеджер по продаже В2В (системная интеграция)</name>
+		<company>SI BIS</company>
+		<location>Киев</location>
+		<description local="uk">Компанія SI BIS - це компетентний Експерт в IТ і один з лідерів галузі системної інтеграції з більш ніж 15-річною історією успіхуВраховуючи обмеження,. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="29">
+		<name>BigData Developer, Media Conglomerate</name>
+		<company>DataArt</company>
+		<location>Киев</location>
+		<description local="en">DataArt is involved in the software transformation of key business areas of a US-based global music conglomerate. The solutions we're currently developing. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="30">
+		<name>Full stack developer (PHP)</name>
+		<company>A-Z eCommerce</company>
+		<location>Киев</location>
+		<description local="en">A full stack developer is required - An exited opportunity!!!A leading international company is seeking a Full Stack developer to join our lively and young. . .</description>
+		<salary_list>
+			<UAH curency="uah">23500</UAH>
+			<USD curency="usd">880</USD>
+			<EUR curency="eur">792</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="31">
+		<name>Senior QA Engineer / Automation</name>
+		<company>Codeminders</company>
+		<location>Киев</location>
+		<description local="en">We are looking for a Senior QA Engineer / AutomationRequirements:BS or MS in Computer Science or related field5+ years of experience in QACodecs, media. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="32">
+		<name>Supervisor Contact center (Deutsch)</name>
+		<company>Autodoc</company>
+		<location>Одесса</location>
+		<description local="uk">Autodoc (www. Autodoc. Eu) - це міжнародна компанія, заснована в 2008 році в Берліні. Спеціалізуємося на продажу запчастин і аксесуарів для авто. Більш. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="33">
+		<name>Acquiring Platform Architect</name>
+		<company>DataArt</company>
+		<location>Днепр</location>
+		<description local="en">Our client is a European acquiring bank that specializes in processing Internet payments based on the WAY4 payment platform. DataArt's specialists are. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="34">
+		<name>Customer support со знанием английского в ночь (IT)</name>
+		<company>Poster</company>
+		<location>Днепр</location>
+		<description local="uk">У Poster ми робимо систему автоматизації для кафе, ресторанів, магазинів і інших закладів. Це програма, яка наводить порядок в бізнесі і допомагає. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="35">
+		<name>DBA Production (MS SQL Server)</name>
+		<company>Neogames</company>
+		<location>Харьков</location>
+		<description local="en">NeoGames is seeking a quality and experienced DBA Production - infrastructure and applicative. The DBA will be responsible for all DB aspects in the production. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="36">
+		<name>NetSuite Architect</name>
+		<company>DataArt</company>
+		<location>Днепр</location>
+		<description local="en">DataArt is looking for experienced and motivated NetSuite Architect who could provide architecture guidance for our team in the exciting project we are. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="37">
+		<name>Senior NetSuite Developer</name>
+		<company>DataArt</company>
+		<location>Днепр</location>
+		<description local="en">DataArt is looking for a skilled Senior NetSuite Developer to strengthen our team which starts a new project for leading US global education provider. . . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="38">
+		<name>Embedded Software Engineer, Communications Services</name>
+		<company>DataArt</company>
+		<location>Днепр</location>
+		<description local="en">Our client is a global provider of testing, analytics, and security solutions for the telecommunications sector. DataArt's specialists are helping to develop. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
+	<vacancy ID="39">
+		<name>1с програміст</name>
+		<company>Golden-Pharm</company>
+		<location>Киев</location>
+		<description local="uk">Требуется программист для підтримки 1С в дружну і стабільну компанію ОБЯЗАННОСТІПрограммірованіе конфігурацій 1С на базі платформ 8. 2,8. 3; Оптимізація. . .</description>
+		<salary_list>
+			<UAH curency="uah">Не указано</UAH>
+			<USD curency="usd">Не указано</USD>
+			<EUR curency="eur">Не указано</EUR>
+		</salary_list>
+	</vacancy>
 </vacancies>

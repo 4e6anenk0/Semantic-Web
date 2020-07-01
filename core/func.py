@@ -1,3 +1,4 @@
+import requests as rq
 from xml.dom import minidom
 from xml.etree.ElementTree import ElementTree, SubElement
 from lxml import html, etree
@@ -6,37 +7,64 @@ import googletrans as translate
 import langid
 import re
 
+"""
+Генератор URL - адрессов, который возращает URL адресс с необзодимой итерируемой частью.
+"""
+def generate_url(url: str, suffix: str):
+    count = 1
+    while True:
+        yield url
+        count = count + 1
+        url = url + suffix + str(count)
 
-def create_tag(name: str=None, text: str=None, attributes: dict=None, *, cdata: bool=False):
+"""
+Функция для получения данных с сайта. Принимает на вход:
+Генератор адресов - функция для итерации страниц сайта,
+Количество страниц для парсинга, 
+Словарь имен атрибутов для выходных данных и имена классов, откуда берутся даннные.
+Функция построена с использованием библиотеки lxml.
+На выходе имеем экземпляр класса Former, в котором поля класса соответсвуют ключам словаря - 
+name_and_class или словарь имя - значения
+"""
+def get_data_as_dict(generate_url: object, num_pages: int, name_and_class: dict):
+    parsing_dict = {}
+    for step in range(num_pages):
+        url = next(generate_url)
+        page = rq.get(url).text
+        content = html.fromstring(page)
+        # С помощью внутреннего цикла мы на 0 шаге формируем структуру словаря для парсинга
+        # с значениями на 0 шаге
+        for name, clazz in name_and_class.items():
+            if step == 0:
+                el = class_parse(clazz, content) # el это список значений
+                parsing_dict.update({name:el})
+            # При этом условии, мы просто расширяем словарь новыми значениями
+            else:
+                el = class_parse(clazz, content)
+                value = parsing_dict[name]
+                value.extend(el) # Расширяем список
+        
+    return parsing_dict
 
-    doc = minidom.Document()
+def get_data_as_obj(generate_url: object, num_pages: int, name_and_class: dict):
+    parsing_dict = get_data_as_dict(generate_url, num_pages, name_and_class)
+    name_list = []
+    data_list = []
+    for name, data in parsing_dict.items():
+        name_list.append(name)
+        data_list.append(data) # список списков данных
+    parsing_obj = combine_data(name_list, *data_list)
+    return parsing_obj
 
-    if name is None:
-            return doc
-
-    tag = doc.createElement(name)
-    
-    if text is not None:
-        if cdata is True:
-            tag.appendChild(doc.createCDATASection(text))
-        else:
-            tag.appendChild(doc.createTextNode(text))
-    
-    if attributes is not None:
-        for k, v in attributes.items():
-            tag.setAttribute(k, str(v))
-    
-    return tag
 
 def formatting(text: str):
     text = ' '.join(text.split())
     text = re.sub(r'(?<=[.])(?=[^\s])', r' ', text)
     return text
 
-    
-    """
-    Функция, с помощью которой происходит парсинг данных с сайта по класу с помощью библиотеки lxml
-    """
+"""
+Функция, с помощью которой происходит парсинг данных с сайта по класу с помощью библиотеки lxml
+"""
 def class_parse(class_name: str, content):
     data = []
     for el in content.find_class(class_name):
@@ -48,10 +76,10 @@ def class_parse(class_name: str, content):
     return data
 
 
-    """
-    Функция, которая из полученных данных с помощью класса  Former генерирует обьекты данных с
-    с произвольным колличеством атрибутов.
-    """
+"""
+Функция, которая из полученных данных с помощью класса  Former генерирует обьекты данных с
+с произвольным колличеством атрибутов.
+"""
 def combine_data(names: list, *args):
     if len(names) != len(list(args)):
         Exception()

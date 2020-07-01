@@ -1,108 +1,115 @@
 <vacancies>
     <vacancy>
-        <name>Специалист технической поддержки</name>
-        <company>Listex</company>
-        <salary>22 400 грн</salary>
+        <name>Embedded Software Engineer, Communications Services</name>
+        <company>DataArt</company>
+        <salary>Не указано</salary>
         <location>Киев</location>
-        <description>Инновационной команде развития интернет-метапоиска FMCG-товаров на постоянную работу требуется Специалист технической поддержки. Необходимые навыки- Чистая,. . .</description>
+        <description>Our client is a global provider of testing, analytics, and security solutions for the telecommunications sector. DataArt's specialists are helping to develop. . .</description>
     </vacancy>
     <vacancy>
-        <name>Tech Lead with Python Experience, Financial Software Solutions</name>
+        <name>NetSuite Architect</name>
+        <company>DataArt</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>DataArt is looking for experienced and motivated NetSuite Architect who could provide architecture guidance for our team in the exciting project we are. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Senior NetSuite Developer</name>
+        <company>DataArt</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>DataArt is looking for a skilled Senior NetSuite Developer to strengthen our team which starts a new project for leading US global education provider. . . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Senior Sitecore Developer</name>
+        <company>DataArt</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>DataArt is looking for an experienced and motivated Senior SiteCore Developer who can provide guidance and technical leadership for our team in an exciting. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>BigData Developer, Media Conglomerate</name>
         <company>DataArt</company>
         <salary>Не указано</salary>
         <location>Днепр</location>
-        <description>THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech Company that is building a trading and risk software platform. . .</description>
+        <description>DataArt is involved in the software transformation of key business areas of a US-based global music conglomerate. The solutions we're currently developing. . .</description>
     </vacancy>
     <vacancy>
-        <name>It sales specialist</name>
-        <company>MELBUL LTD</company>
-        <salary>13 000 грн</salary>
-        <location>Киев</location>
-        <description>Requirements: Experience in selling marketing services. Sales experience with the European market. Fluent English communication. Ability to work in a multi-cultural. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Business Development Manager Bang &amp; Olufsen (Ukraine)</name>
-        <company>ASBIS-Украина</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description>ASBIS - ведущая международная компания, лидер рынка дистрибуции ИТ-продуктов и решений, в связи с развитием направления, приглашает на работу Business. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Програміст 1C (ERP)</name>
-        <company>КТ Украина, ООО</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description>«КТ Україна» - національний лідер у виробництві електроінструменту та будівельних матеріалів таких торгових марок, як Dnipro-М, Foresta, Ataman, Soma Fix. . . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Senior IT Solution Architect</name>
-        <company>Райффайзен Банк Аваль</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description>We are looking for a Senior IT Solution Architect to join our motivated, high-performing team in developing our key banking products based on modern, state-of-art. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Программист 1С(7. 7)</name>
-        <company>MakeUp, Интернет Магазин</company>
-        <salary>55 000 грн</salary>
-        <location>Киев</location>
-        <description>Интернет-магазину косметики и парфюмерии makeup. ua, в связи с расширением штата, требуется программист1С (7. 7). Ищем сотрудника в штат компании. Основные. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Sales manager</name>
-        <company>Бест Вертекс</company>
+        <name>IT manager</name>
+        <company>Citizen development</company>
         <salary>30 000 грн</salary>
         <location>Киев</location>
-        <description>«Best Vertex» is an international company which is mainly aimed on consulting and providing service for corporate and individual clients in IT and financial. . .</description>
+        <description>IT manager ФОРЕКС Опыт работы в Форексе минимум 6 месяцев Работа с объемом от 40 человек Возраст до 30 лет Работа с Linux , windows , IP телефония, Опыт. . .</description>
     </vacancy>
     <vacancy>
-        <name>Аналітик бізнес-процесів/Внутрішній контролер</name>
-        <company>НЕК Укренерго</company>
+        <name>Senior BigData Engineer, Financial Software Solutions</name>
+        <company>DataArt</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description>Національна енергетична компанія «Укренерго» запрошує взяти участь в конкурсі на заміщення вакантної посади Аналітик бізнес-процесів відділу оцінки процесів. . .</description>
+        <description>Our client is a New York City-based FinTech Company that is building a trading and risk software platform for the investment banking industry. The BigData. . .</description>
     </vacancy>
     <vacancy>
-        <name>Junior C++ developer</name>
-        <company>Dukascopy Bank SA</company>
+        <name>Customer Support Consultant (German/Polish/Spanish/Korean/French/Italian)</name>
+        <company>SupportYourApp</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description>We are looking for: Junior C++ developer About the Company Dukascopy Bank SA is an innovative Swiss based bank domiciled and having its headquarters in. . .</description>
+        <description>Micro-mobility is the future of travel. Agree? Are you passionate about mobile devices for moving around the city and modern technologies? Join our team. . .</description>
     </vacancy>
     <vacancy>
-        <name>Network administrator</name>
-        <company>АШАН</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description>Основні функції:Обслуговування та конфігурація активного комутаційного обладнання підприємства ( Vlan, OSPF, VPN, IPSec)Обслуговування та конфігурація. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Бізнес-аналітик 1С</name>
-        <company>ГК Аскания</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description>Група компаній «Асканія», багатопрофільний український холдинг, який включає 12 компаній різних напрямів діяльності, запрошує до команди: «Бізнес-аналітика. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Front-end developer (Angular 6+)</name>
+        <name>Senior React Native developer</name>
         <company>NIX Solutions</company>
         <salary>Не указано</salary>
         <location>Харьков</location>
-        <description>Мы ищем в команду разработчиков со знанием Angular 6+ для проектирования и создания SaaS-платформы предоставления услуг смарт-устройств, которая расширит. . .</description>
+        <description>Наша команда ищет Senior React Native developer, который возглавит разработку мобильного клиента с чат ботом под iOS / Android. Проект - система взаимодействия. . .</description>
     </vacancy>
     <vacancy>
-        <name>Системный администратор (Linux, Windows)</name>
-        <company>SIM-Networks</company>
-        <salary>Не указано</salary>
-        <location>Киев</location>
-        <description>Sim-Networks Ukraine (дочерняя компания немецкой Netversor GmbH) приглашает к себе в команду Системного администратора / Специалиста Службы техподдержки. . . .</description>
+        <name>Менеджер по продажам</name>
+        <company>LOPAN group</company>
+        <salary>15 000 грн</salary>
+        <location>Харьков</location>
+        <description>LOPAN group», 15 лет продаем, внедряем и поддерживаем программные продукты «1С», «M. E. Doc», «LIGA:ZAKON», знаем абсолютно все про электронный документооборот. . .</description>
     </vacancy>
     <vacancy>
-        <name>Senior DevOps Engineer</name>
-        <company>Нова Пошта, ТОВ / Новая Почта</company>
+        <name>Data Scientist / BI Analyst</name>
+        <company>Factum Group</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description>Responsibilities: Working together with our R&amp;D leads to make sure dev, staging, and production are properly planned, set and maintained;Plan and maintain. . .</description>
+        <description>Data Scientist / BI Analyst - в динамично растущую команду Factum Group Требования: Высшее образование: computer science, data science, статистика, маркетинг. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Senior/Lead . NET developer</name>
+        <company>Edsson Ukraine LLC</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>Требования: Experience with Azure, ASP. NET MVC, Entity Framework, SQL Server or NServiceBus are considered assetsBachelor's degree in (Applied) Computer. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Программист 1C</name>
+        <company>РАЙСЬКЕ ДЖЕРЕЛО, ДП</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>«Райське Джерело» (https://www. eden. com. ua/) - ведущая компания на рынке Украины в направлении Aqua-service (доставка и производств бутилированной воды. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Головний фахівець з інформаційної та кадрової безпеки</name>
+        <company>Укргазвидобування, АТ</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>Потенційний пошукШановні кандидати, у зв'язку з карантинними запобіжними заходами співбесіди проводитимуться онлайн або після закінчення карантину. Забезпечувати. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>. NET Senior (Middle) Developer</name>
+        <company>ISM Ukraine</company>
+        <salary>Не указано</salary>
+        <location>Житомир</location>
+        <description>Looking for a full-time job in the Zhytomyr office?Then you should definitely take a look at our vacancy! ISM Ukraine is the Ukrainian R&amp;D of the Dutch. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>WAY4 Expert, Global Acquiring Platform</name>
+        <company>DataArt</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>Our client develops solutions for acquiring payments. They have created a global automated online payment platform that specializes in the processing of. . .</description>
     </vacancy>
     <vacancy>
         <name>Senior BigData Engineer, Financial Software Solutions</name>
@@ -112,31 +119,24 @@
         <description>Our client is a New York City-based FinTech startup that is building a trading and risk software platform for the investment banking industry to sell as. . .</description>
     </vacancy>
     <vacancy>
-        <name>Программист-схемотехник (протокол CAN)</name>
-        <company>ПОЛАРИС САТЕЛЛИТ</company>
-        <salary>15 000 грн</salary>
-        <location>Киев</location>
-        <description>Требования: Программист встроенного автомобильного оборудования, знакомый с CAN-шиной автомобиля;Способность написать программу под Windows для управления. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>WAY4 Expert, Global Acquiring Platform</name>
-        <company>DataArt</company>
-        <salary>Не указано</salary>
-        <location>Днепр</location>
-        <description>Our client is a European acquiring bank that specializes in processing Internet payments based on the WAY4 payment platform. DataArt's specialists are. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Certified PEGA Engineer</name>
-        <company>DataArt</company>
-        <salary>Не указано</salary>
-        <location>Днепр</location>
-        <description>DataArt is looking for a specialist with Pega expertise to maximize the potential of the Pega Platform. The client is a British-based public healthcare. . .</description>
-    </vacancy>
-    <vacancy>
-        <name>Программист 1С</name>
-        <company>ВЕНБЕСТ, ООО</company>
+        <name>System Administrator (with scripting) / DevOps</name>
+        <company>Onseo</company>
         <salary>Не указано</salary>
         <location>Киев</location>
-        <description>Группа компаний «ВЕНБЕСТ» создана в 1991 году и на сегодняшний день является крупнейшей в Украине негосударственной охранной структурой, лидером рынка. . .</description>
+        <description>We're looking for a person to join our team with a strong system and technological background who we'll be responsible for supporting large, international. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Customer Support Manager (EN + DE)</name>
+        <company>JavaRush</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>Интересуешься ИТ, любишь и умеешь общаться с людьми? Грамотно формулируешь свои мысли в письменном виде и обладаешь стрессоустойчивостью? Можешь помирить. . .</description>
+    </vacancy>
+    <vacancy>
+        <name>Angular Developer</name>
+        <company>Epom</company>
+        <salary>Не указано</salary>
+        <location>Киев</location>
+        <description>Epom is a cross-platform ad-serving platform for ad campaigns management, monitoring and optimization. Epom provides customers with a unified platform. . .</description>
     </vacancy>
 </vacancies>

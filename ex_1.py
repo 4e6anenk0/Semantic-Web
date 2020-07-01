@@ -4,47 +4,23 @@ from components import vacancy as apigds
 # Importing created librarys:
 from core.func import class_parse
 from core.func import combine_data
+from core.func import generate_url
+from core.func import get_data_as_obj
+from core.func import get_data_as_dict
 
-# &pg=2 iterate
-def generate_url():
-    url = "https://rabota.ua/jobsearch/vacancy_list?keyWords=&regionId=0&parentId=1"
-    num = 1
-    while True:
-        yield url
-        num = num + 1
-        url = url + "&pg=" + str(num)
 
-g_url = generate_url()
-name_and_class = {"name":"ga_listing", "company":"company-profile-name", "salary":"salary", "location":"location", "description":"card-description"}
+url = "https://rabota.ua/jobsearch/vacancy_list?keyWords=&regionId=0&parentId=1"
+g_url = generate_url(url, "&pg=")
 
-def get_data(generate_url: object, num_pages: int, name_and_class: dict):
-    name_list = []
-    data_list = []
-    parsing_dict = {}
-    for step in range(num_pages):
-        url = next(generate_url)
-        page = rq.get(url).text
-        content = html.fromstring(page)
-        
-        for name, clazz in name_and_class.items():
-            if step == 0:
-                el = class_parse(clazz, content)
-                parsing_dict.update({name:el})
-            else: 
-                el = class_parse(clazz, content)
-                value = parsing_dict[name]
-                value.extend(el)
-        
-    for name, data in parsing_dict.items():
-        name_list.append(name)
-        data_list.append(data)
-    
-    data = combine_data(name_list, *data_list)
+name_and_class = {
+    "name":"ga_listing",
+    "company":"company-profile-name",
+    "salary":"salary",
+    "location":"location",
+    "description":"card-description"
+}
 
-    return data
-        
-data = get_data(g_url, 1, name_and_class)
-
+data = get_data_as_obj(g_url, 1, name_and_class)
 
 # Getting content from the site
 #url = "https://rabota.ua/jobsearch/vacancy_list?keyWords=&regionId=0&parentId=1"
@@ -88,17 +64,3 @@ f.close()
 #name = content.xpath('//a[@class = "ga_listing"]/text()')
 #company = content.xpath('//a[@class = "company-profile-name"]/text()')
 #salary = content.xpath('//span[@class = "salary"]/text()')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
