@@ -1,6 +1,6 @@
-from lxml.etree import parse, XSLT
+from lxml.etree import parse
+from lxml.etree import XSLT
 
-# building html
 
 def html_building():
     dom = parse('xml_gen_update.xml')
