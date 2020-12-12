@@ -1,0 +1,2120 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/4e6an/ontologies/2020/11/fashion"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/fashion">
+    <Prefix name="" IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-27"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Accessory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Alexander_Wang_Co."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Backpack"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bag"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Balenciaga_Co."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Boots"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Boris_Bidjan_Co."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Brand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cargo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Clothing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Collection"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Country"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Diesel_Co."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Distributor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Footwear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gender"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Jacket"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Jeans"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Joggers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Parka"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Person"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Production"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Raincoat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rick_Owens_Co."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Riot_Division_Co."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Season"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shoes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sneakers"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#brandHas"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#collaboratesWith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#createdBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#creates"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasCollection"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasDistributor"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasFounder"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasGender"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasGeneralManager"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isCollectionOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isCreativeDirectorOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isDistributorOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isFashionDesignerOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isFounderOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isGeneralManagerOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#madeIn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#refersTo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#registredIn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#foundedIn"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasCollectionName"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasEuSize"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasPersonName"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasSize"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Alexander_Wang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Alexander_Wang_Co."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Autumn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Black_pants"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Boris_Bidjan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Boris_Bidjan_Co."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#China"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cristobal_Balenciaga"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Demna_Gvasalia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Diesel_Co."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Eo_Bocci_Associates"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Faded_parka"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#France"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Georgia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Germany"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#HOURGLASS_SMALL_TOP_HANDLE_BAG"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Italy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#J-ACKER_raincoat"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Kering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Logo_tape_jogger"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Men"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Netherlands"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Oleg_Moroz"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PA_Hans_Brindfors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Renzo_Rosso"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rick_Owens"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RiotDivision_water_proof_back_pack_60_RD-WPBP60"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Riot_Division_Co."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Spain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Spring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Staff_International"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Summer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Track_sandals"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#USA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ukraine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Unisex"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wilbert_Das"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Winter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Women"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Какой-то_человек"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Alexander_Wang_2020/2021"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rick_Owens_2020/2021"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#Alexander_Wang_Co."/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#Alexander_Wang_Co."/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Balenciaga_Co."/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#Balenciaga_Co."/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Boris_Bidjan_Co."/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#Boris_Bidjan_Co."/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Country"/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#China"/>
+            <NamedIndividual IRI="#France"/>
+            <NamedIndividual IRI="#Georgia"/>
+            <NamedIndividual IRI="#Germany"/>
+            <NamedIndividual IRI="#Italy"/>
+            <NamedIndividual IRI="#Netherlands"/>
+            <NamedIndividual IRI="#Spain"/>
+            <NamedIndividual IRI="#USA"/>
+            <NamedIndividual IRI="#Ukraine"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Diesel_Co."/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#Diesel_Co."/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Gender"/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#Men"/>
+            <NamedIndividual IRI="#Unisex"/>
+            <NamedIndividual IRI="#Women"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Rick_Owens_Co."/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#Rick_Owens_Co."/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Riot_Division_Co."/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#Riot_Division_Co."/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Season"/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#Autumn"/>
+            <NamedIndividual IRI="#Spring"/>
+            <NamedIndividual IRI="#Summer"/>
+            <NamedIndividual IRI="#Winter"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#Accessory"/>
+        <Class IRI="#Production"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Alexander_Wang_Co."/>
+        <Class IRI="#Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Backpack"/>
+        <Class IRI="#Accessory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bag"/>
+        <Class IRI="#Accessory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Balenciaga_Co."/>
+        <Class IRI="#Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boots"/>
+        <Class IRI="#Footwear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boris_Bidjan_Co."/>
+        <Class IRI="#Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Brand"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasFounder"/>
+            <Class IRI="#Person"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Brand"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#foundedIn"/>
+            <Datatype abbreviatedIRI="xsd:nonNegativeInteger"/>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cargo"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Clothing"/>
+        <Class IRI="#Production"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Collection"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#hasCollectionName"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Diesel_Co."/>
+        <Class IRI="#Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Footwear"/>
+        <Class IRI="#Production"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Jacket"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Jeans"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Joggers"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pants"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Parka"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Person"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+            <Class IRI="#Country"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Production"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#createdBy"/>
+            <Class IRI="#Brand"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Production"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasGender"/>
+            <Class IRI="#Gender"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Production"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#madeIn"/>
+            <Class IRI="#Country"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Raincoat"/>
+        <Class IRI="#Clothing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rick_Owens_Co."/>
+        <Class IRI="#Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Riot_Division_Co."/>
+        <Class IRI="#Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shoes"/>
+        <Class IRI="#Footwear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sneakers"/>
+        <Class IRI="#Footwear"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+                <Class IRI="#Country"/>
+            </ObjectSomeValuesFrom>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#hasPersonName"/>
+                <Datatype abbreviatedIRI="xsd:string"/>
+            </DataSomeValuesFrom>
+        </ObjectUnionOf>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#hasCollectionName"/>
+            <Datatype abbreviatedIRI="xsd:string"/>
+        </DataSomeValuesFrom>
+        <Class IRI="#Collection"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Accessory"/>
+        <Class IRI="#Clothing"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Accessory"/>
+        <Class IRI="#Footwear"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Alexander_Wang_Co."/>
+        <Class IRI="#Balenciaga_Co."/>
+        <Class IRI="#Boris_Bidjan_Co."/>
+        <Class IRI="#Diesel_Co."/>
+        <Class IRI="#Rick_Owens_Co."/>
+        <Class IRI="#Riot_Division_Co."/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Clothing"/>
+        <Class IRI="#Footwear"/>
+    </DisjointClasses>
+    <DisjointUnion>
+        <Class IRI="#Accessory"/>
+        <Class IRI="#Backpack"/>
+        <Class IRI="#Bag"/>
+    </DisjointUnion>
+    <DisjointUnion>
+        <Class IRI="#Brand"/>
+        <Class IRI="#Alexander_Wang_Co."/>
+        <Class IRI="#Balenciaga_Co."/>
+        <Class IRI="#Boris_Bidjan_Co."/>
+        <Class IRI="#Diesel_Co."/>
+        <Class IRI="#Rick_Owens_Co."/>
+        <Class IRI="#Riot_Division_Co."/>
+    </DisjointUnion>
+    <DisjointUnion>
+        <Class IRI="#Clothing"/>
+        <Class IRI="#Cargo"/>
+        <Class IRI="#Jacket"/>
+        <Class IRI="#Jeans"/>
+        <Class IRI="#Joggers"/>
+        <Class IRI="#Pants"/>
+        <Class IRI="#Parka"/>
+        <Class IRI="#Raincoat"/>
+    </DisjointUnion>
+    <DisjointUnion>
+        <Class IRI="#Footwear"/>
+        <Class IRI="#Boots"/>
+        <Class IRI="#Shoes"/>
+        <Class IRI="#Sneakers"/>
+    </DisjointUnion>
+    <DisjointUnion>
+        <Class IRI="#Production"/>
+        <Class IRI="#Accessory"/>
+        <Class IRI="#Clothing"/>
+        <Class IRI="#Footwear"/>
+    </DisjointUnion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Alexander_Wang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Alexander_Wang_Co."/>
+        <NamedIndividual IRI="#Alexander_Wang_Co."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Season"/>
+        <NamedIndividual IRI="#Autumn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Balenciaga_Co."/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Pants"/>
+        <NamedIndividual IRI="#Black_pants"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Boris_Bidjan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Boris_Bidjan_Co."/>
+        <NamedIndividual IRI="#Boris_Bidjan_Co."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Jeans"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#China"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Boots"/>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Cristobal_Balenciaga"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Demna_Gvasalia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Diesel_Co."/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Distributor"/>
+        <NamedIndividual IRI="#Eo_Bocci_Associates"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Parka"/>
+        <NamedIndividual IRI="#Faded_parka"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#France"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Georgia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Germany"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Bag"/>
+        <NamedIndividual IRI="#HOURGLASS_SMALL_TOP_HANDLE_BAG"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Sneakers"/>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Italy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Raincoat"/>
+        <NamedIndividual IRI="#J-ACKER_raincoat"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Jacket"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Distributor"/>
+        <NamedIndividual IRI="#Kering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Joggers"/>
+        <NamedIndividual IRI="#Logo_tape_jogger"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Gender"/>
+        <NamedIndividual IRI="#Men"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Netherlands"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Oleg_Moroz"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Distributor"/>
+        <NamedIndividual IRI="#PA_Hans_Brindfors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cargo"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Renzo_Rosso"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Rick_Owens"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Rick_Owens_Co."/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Backpack"/>
+        <NamedIndividual IRI="#RiotDivision_water_proof_back_pack_60_RD-WPBP60"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Riot_Division_Co."/>
+        <NamedIndividual IRI="#Riot_Division_Co."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Spain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Season"/>
+        <NamedIndividual IRI="#Spring"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Distributor"/>
+        <NamedIndividual IRI="#Staff_International"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Season"/>
+        <NamedIndividual IRI="#Summer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Shoes"/>
+        <NamedIndividual IRI="#Track_sandals"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#USA"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Country"/>
+        <NamedIndividual IRI="#Ukraine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Gender"/>
+        <NamedIndividual IRI="#Unisex"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Person"/>
+        <NamedIndividual IRI="#Wilbert_Das"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Season"/>
+        <NamedIndividual IRI="#Winter"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Gender"/>
+        <NamedIndividual IRI="#Women"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Collection"/>
+        <NamedIndividual IRI="#Rick_Owens_2020/2021"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Alexander_Wang"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Alexander_Wang"/>
+        <NamedIndividual IRI="#USA"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+        <NamedIndividual IRI="#Alexander_Wang_Co."/>
+        <NamedIndividual IRI="#Alexander_Wang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFounder"/>
+        <NamedIndividual IRI="#Alexander_Wang_Co."/>
+        <NamedIndividual IRI="#Alexander_Wang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#registredIn"/>
+        <NamedIndividual IRI="#Alexander_Wang_Co."/>
+        <NamedIndividual IRI="#USA"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+        <NamedIndividual IRI="#Demna_Gvasalia"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasDistributor"/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+        <NamedIndividual IRI="#Kering"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFounder"/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+        <NamedIndividual IRI="#Cristobal_Balenciaga"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#registredIn"/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+        <NamedIndividual IRI="#France"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#Black_pants"/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Black_pants"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#Black_pants"/>
+        <NamedIndividual IRI="#Spain"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Boris_Bidjan"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Boris_Bidjan"/>
+        <NamedIndividual IRI="#Germany"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+        <NamedIndividual IRI="#Boris_Bidjan_Co."/>
+        <NamedIndividual IRI="#Boris_Bidjan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFounder"/>
+        <NamedIndividual IRI="#Boris_Bidjan_Co."/>
+        <NamedIndividual IRI="#Boris_Bidjan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#registredIn"/>
+        <NamedIndividual IRI="#Boris_Bidjan_Co."/>
+        <NamedIndividual IRI="#Spain"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <NamedIndividual IRI="#Italy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+        <NamedIndividual IRI="#Italy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#refersTo"/>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+        <NamedIndividual IRI="#Rick_Owens_2020/2021"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Cristobal_Balenciaga"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Cristobal_Balenciaga"/>
+        <NamedIndividual IRI="#Spain"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Demna_Gvasalia"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Demna_Gvasalia"/>
+        <NamedIndividual IRI="#Georgia"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+        <NamedIndividual IRI="#Wilbert_Das"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasDistributor"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+        <NamedIndividual IRI="#PA_Hans_Brindfors"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasDistributor"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+        <NamedIndividual IRI="#Staff_International"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFounder"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+        <NamedIndividual IRI="#Renzo_Rosso"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#registredIn"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+        <NamedIndividual IRI="#Italy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isDistributorOf"/>
+        <NamedIndividual IRI="#Eo_Bocci_Associates"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#Faded_parka"/>
+        <NamedIndividual IRI="#Boris_Bidjan_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Faded_parka"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#Faded_parka"/>
+        <NamedIndividual IRI="#Spain"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#HOURGLASS_SMALL_TOP_HANDLE_BAG"/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#HOURGLASS_SMALL_TOP_HANDLE_BAG"/>
+        <NamedIndividual IRI="#Women"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#HOURGLASS_SMALL_TOP_HANDLE_BAG"/>
+        <NamedIndividual IRI="#Italy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+        <NamedIndividual IRI="#Women"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+        <NamedIndividual IRI="#Italy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#J-ACKER_raincoat"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#J-ACKER_raincoat"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#J-ACKER_raincoat"/>
+        <NamedIndividual IRI="#Spain"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <NamedIndividual IRI="#Italy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#Logo_tape_jogger"/>
+        <NamedIndividual IRI="#Alexander_Wang_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Logo_tape_jogger"/>
+        <NamedIndividual IRI="#Women"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#Logo_tape_jogger"/>
+        <NamedIndividual IRI="#China"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Oleg_Moroz"/>
+        <NamedIndividual IRI="#Ukraine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <NamedIndividual IRI="#Italy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#refersTo"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <NamedIndividual IRI="#Rick_Owens_2020/2021"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Renzo_Rosso"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Renzo_Rosso"/>
+        <NamedIndividual IRI="#Italy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Rick_Owens"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Rick_Owens"/>
+        <NamedIndividual IRI="#USA"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#collaboratesWith"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+        <NamedIndividual IRI="#France"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#collaboratesWith"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+        <NamedIndividual IRI="#Rick_Owens"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+        <NamedIndividual IRI="#Rick_Owens"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFounder"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+        <NamedIndividual IRI="#Rick_Owens"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#registredIn"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+        <NamedIndividual IRI="#France"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#registredIn"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+        <NamedIndividual IRI="#USA"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#RiotDivision_water_proof_back_pack_60_RD-WPBP60"/>
+        <NamedIndividual IRI="#Riot_Division_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#RiotDivision_water_proof_back_pack_60_RD-WPBP60"/>
+        <NamedIndividual IRI="#Unisex"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#RiotDivision_water_proof_back_pack_60_RD-WPBP60"/>
+        <NamedIndividual IRI="#Ukraine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFounder"/>
+        <NamedIndividual IRI="#Riot_Division_Co."/>
+        <NamedIndividual IRI="#Oleg_Moroz"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#registredIn"/>
+        <NamedIndividual IRI="#Riot_Division_Co."/>
+        <NamedIndividual IRI="#Ukraine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#createdBy"/>
+        <NamedIndividual IRI="#Track_sandals"/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Track_sandals"/>
+        <NamedIndividual IRI="#Women"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeIn"/>
+        <NamedIndividual IRI="#Track_sandals"/>
+        <NamedIndividual IRI="#France"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasGender"/>
+        <NamedIndividual IRI="#Wilbert_Das"/>
+        <NamedIndividual IRI="#Men"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Wilbert_Das"/>
+        <NamedIndividual IRI="#Netherlands"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <NamedIndividual IRI="#Какой-то_человек"/>
+        <NamedIndividual IRI="#Ukraine"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isCollectionOf"/>
+        <NamedIndividual IRI="#Rick_Owens_2020/2021"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#refersTo"/>
+        <NamedIndividual IRI="#Rick_Owens_2020/2021"/>
+        <NamedIndividual IRI="#Winter"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasPersonName"/>
+        <NamedIndividual IRI="#Alexander_Wang"/>
+        <Literal>Alexander Wang</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#foundedIn"/>
+        <NamedIndividual IRI="#Alexander_Wang_Co."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2004</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#foundedIn"/>
+        <NamedIndividual IRI="#Balenciaga_Co."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1919</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Black_pants"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">44</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Black_pants"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">48</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasPersonName"/>
+        <NamedIndividual IRI="#Boris_Bidjan"/>
+        <Literal>Boris Bidjan Saberi</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#foundedIn"/>
+        <NamedIndividual IRI="#Boris_Bidjan_Co."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2007</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">48</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">52</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">54</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <Literal>M</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <Literal>XL</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Carrot_-_D-Vider_009QZ"/>
+        <Literal>XXL</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">42</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">43</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Chunky_boots_with_contrasting_lacing"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">44</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasPersonName"/>
+        <NamedIndividual IRI="#Cristobal_Balenciaga"/>
+        <Literal>Cristobal Balenciaga</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasPersonName"/>
+        <NamedIndividual IRI="#Demna_Gvasalia"/>
+        <Literal>Demna Gvasalia</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#foundedIn"/>
+        <NamedIndividual IRI="#Diesel_Co."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1978</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Faded_parka"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">46</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Faded_parka"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">48</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Faded_parka"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">35</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">36</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">37</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#High_top_lace-up_sneakers"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">38</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#J-ACKER_raincoat"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">44</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#J-ACKER_raincoat"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">48</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#J-ACKER_raincoat"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">52</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">44</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">46</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">48</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">52</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">54</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal>L</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal>M</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal>S</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal>XL</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal>XS</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Jacket_D-BRAVY-SP_JOGGJEANS"/>
+        <Literal>XXS</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Logo_tape_jogger"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">29</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Logo_tape_jogger"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">32</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Logo_tape_jogger"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">38</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasPersonName"/>
+        <NamedIndividual IRI="#Oleg_Moroz"/>
+        <Literal>Oleg Moroz</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">44</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">46</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">48</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">52</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">54</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">56</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal>L</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal>M</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal>S</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal>XL</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal>XS</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal>XXL</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <NamedIndividual IRI="#Pants_DRKSHDW_Cargo_Drawstring_Long"/>
+        <Literal>XXXL</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasPersonName"/>
+        <NamedIndividual IRI="#Renzo_Rosso"/>
+        <Literal>Renzo Rosso</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasPersonName"/>
+        <NamedIndividual IRI="#Rick_Owens"/>
+        <Literal>Rick Owens</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#foundedIn"/>
+        <NamedIndividual IRI="#Rick_Owens_Co."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#foundedIn"/>
+        <NamedIndividual IRI="#Riot_Division_Co."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2010</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Track_sandals"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">34</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Track_sandals"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">35</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasEuSize"/>
+        <NamedIndividual IRI="#Track_sandals"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">36</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasPersonName"/>
+        <NamedIndividual IRI="#Wilbert_Das"/>
+        <Literal>Wilbert Das</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasCollectionName"/>
+        <NamedIndividual IRI="#Alexander_Wang_2020/2021"/>
+        <Literal>Alexander Wang Collection 2020 - 2021</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasCollectionName"/>
+        <NamedIndividual IRI="#Rick_Owens_2020/2021"/>
+        <Literal>Rick Owens Collection 2020/21</Literal>
+    </DataPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasCollection"/>
+        <ObjectProperty IRI="#brandHas"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+        <ObjectProperty IRI="#brandHas"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasDistributor"/>
+        <ObjectProperty IRI="#brandHas"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+        <ObjectProperty IRI="#brandHas"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasFounder"/>
+        <ObjectProperty IRI="#brandHas"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasGeneralManager"/>
+        <ObjectProperty IRI="#brandHas"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#createdBy"/>
+        <ObjectProperty IRI="#creates"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasCollection"/>
+        <ObjectProperty IRI="#isCollectionOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+        <ObjectProperty IRI="#isCreativeDirectorOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasDistributor"/>
+        <ObjectProperty IRI="#isDistributorOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+        <ObjectProperty IRI="#isFashionDesignerOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasFounder"/>
+        <ObjectProperty IRI="#isFounderOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasGeneralManager"/>
+        <ObjectProperty IRI="#isGeneralManagerOf"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+    </FunctionalObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#collaboratesWith"/>
+    </SymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#createdBy"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#creates"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#hasCollection"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#hasDistributor"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#hasFounder"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#hasGender"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#hasGeneralManager"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#isCollectionOf"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#isCreativeDirectorOf"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#isDistributorOf"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#isFashionDesignerOf"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#isFounderOf"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#isGeneralManagerOf"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#madeIn"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#registredIn"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+    </AsymmetricObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#refersTo"/>
+    </TransitiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#collaboratesWith"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#createdBy"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#creates"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#hasCollection"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#hasDistributor"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#hasFounder"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#hasGender"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#hasGeneralManager"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#isCollectionOf"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#isCreativeDirectorOf"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#isDistributorOf"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#isFashionDesignerOf"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#isFounderOf"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#isGeneralManagerOf"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#madeIn"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#registredIn"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#collaboratesWith"/>
+        <ObjectUnionOf>
+            <Class IRI="#Brand"/>
+            <Class IRI="#Country"/>
+            <Class IRI="#Distributor"/>
+            <Class IRI="#Person"/>
+        </ObjectUnionOf>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#createdBy"/>
+        <Class IRI="#Production"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#creates"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasCollection"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasDistributor"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasFounder"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasGender"/>
+        <ObjectUnionOf>
+            <Class IRI="#Person"/>
+            <Class IRI="#Production"/>
+        </ObjectUnionOf>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasGeneralManager"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isCollectionOf"/>
+        <Class IRI="#Collection"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isCreativeDirectorOf"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isDistributorOf"/>
+        <Class IRI="#Distributor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isFashionDesignerOf"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isFounderOf"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isGeneralManagerOf"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#madeIn"/>
+        <Class IRI="#Production"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#refersTo"/>
+        <ObjectUnionOf>
+            <Class IRI="#Collection"/>
+            <Class IRI="#Production"/>
+            <Class IRI="#Season"/>
+        </ObjectUnionOf>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#registredIn"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#collaboratesWith"/>
+        <ObjectUnionOf>
+            <Class IRI="#Brand"/>
+            <Class IRI="#Country"/>
+            <Class IRI="#Distributor"/>
+            <Class IRI="#Person"/>
+        </ObjectUnionOf>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#createdBy"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#creates"/>
+        <Class IRI="#Production"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasCollection"/>
+        <Class IRI="#Collection"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasCreativeDirector"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasDistributor"/>
+        <Class IRI="#Distributor"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasFashionDesigner"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasFounder"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasGender"/>
+        <Class IRI="#Gender"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasGeneralManager"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isCollectionOf"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isCreativeDirectorOf"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isDistributorOf"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isFashionDesignerOf"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isFounderOf"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isGeneralManagerOf"/>
+        <Class IRI="#Brand"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#madeIn"/>
+        <Class IRI="#Country"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#refersTo"/>
+        <ObjectUnionOf>
+            <Class IRI="#Collection"/>
+            <Class IRI="#Production"/>
+            <Class IRI="#Season"/>
+        </ObjectUnionOf>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#registredIn"/>
+        <Class IRI="#Country"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.semanticweb.org/4e6an/ontologies/2020/11/untitled-ontology-11#bornIn"/>
+        <Class IRI="#Country"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#hasEuSize"/>
+        <DataProperty IRI="#hasSize"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <DataProperty IRI="#hasSize"/>
+    </SubDataPropertyOf>
+    <FunctionalDataProperty>
+        <DataProperty IRI="#foundedIn"/>
+    </FunctionalDataProperty>
+    <FunctionalDataProperty>
+        <DataProperty IRI="#hasCollectionName"/>
+    </FunctionalDataProperty>
+    <FunctionalDataProperty>
+        <DataProperty IRI="#hasPersonName"/>
+    </FunctionalDataProperty>
+    <DataPropertyDomain>
+        <DataProperty IRI="#foundedIn"/>
+        <Class IRI="#Brand"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasCollectionName"/>
+        <Class IRI="#Collection"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasEuSize"/>
+        <Class IRI="#Production"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <Class IRI="#Production"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasPersonName"/>
+        <Class IRI="#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#foundedIn"/>
+        <DatatypeRestriction>
+            <Datatype abbreviatedIRI="xsd:nonNegativeInteger"/>
+            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1600</Literal>
+            </FacetRestriction>
+            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2020</Literal>
+            </FacetRestriction>
+        </DatatypeRestriction>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasCollectionName"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasEuSize"/>
+        <DatatypeRestriction>
+            <Datatype abbreviatedIRI="xsd:nonNegativeInteger"/>
+            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">28</Literal>
+            </FacetRestriction>
+            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">65</Literal>
+            </FacetRestriction>
+        </DatatypeRestriction>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasMultiNationalSize"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasPersonName"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Accessory</IRI>
+        <Literal xml:lang="en">In clothes, accessories add completeness to the costume: headdress, scarf, shawl, gloves, bag, tie, belt, wallet (purse), key holder, case, key chain, pin, safety pin and more.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Alexander_Wang</IRI>
+        <Literal xml:lang="en">Alexander Wang is an American fashion designer.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Alexander_Wang</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Alexander_Wang_(designer)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Alexander_Wang_Co.</IRI>
+        <Literal xml:lang="en">Alexander Wang it is fashion brand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Alexander_Wang_Co.</IRI>
+        <Literal xml:lang="en">https://www.alexanderwang.com/ua-en/</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Balenciaga_Co.</IRI>
+        <Literal xml:lang="en">Balenciaga it is fashion brand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Balenciaga_Co.</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Balenciaga</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Boris_Bidjan_Co.</IRI>
+        <Literal xml:lang="en">Boris Bidjan it is fashion brand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Boris_Bidjan_Co.</IRI>
+        <Literal xml:lang="en">http://www.borisbidjansaberi.com/</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Brand</IRI>
+        <Literal xml:lang="en">A brand is a name, term, design, symbol or any other feature that identifies one seller&apos;s good or service as distinct from those of other sellers.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Brand</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Brand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Clothing</IRI>
+        <Literal xml:lang="en">Clothing (also known as clothes, apparel and attire) is items worn on the body. Clothing is typically made of fabrics or textiles but over time has included garments made from animal skin or other thin sheets of materials put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies. The amount and type of clothing worn depends on gender, body type, social, and geographic considerations.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Clothing</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Clothing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Collection</IRI>
+        <Literal xml:lang="en">Collection (from Latin collectio - &quot;collection&quot;) - a series of clothing models (shoes, accessories, interior items, etc.), which has a general idea (author&apos;s concept) in relation to the materials used, color palette, shape, basic designs, style solutions.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Country</IRI>
+        <Literal xml:lang="en">A country is a political state, nation, or territory which is controlled. It is often referred to as the land of an individual&apos;s birth, residence, or citizenship.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Country</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Country</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Diesel_Co.</IRI>
+        <Literal xml:lang="en">Diesel it is fashion brand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Diesel_Co.</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Diesel_(brand)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Distributor</IRI>
+        <Literal xml:lang="en">wholesale or retail (it is assumed that the distributor will sell to retail points of sale) a seller with a highly organized structure of active sales, often owning the exclusive rights of a representative of certain goods in a designated territory.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Footwear</IRI>
+        <Literal xml:lang="en">Footwear refers to garments worn on the feet, which originally serves to purpose of protection against adversities of the environment, usually regarding ground textures and temperature.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Footwear</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Footwear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Gender</IRI>
+        <Literal xml:lang="en">Gender is the range of characteristics pertaining to, and differentiating between, masculinity and femininity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or gender identity.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Gender</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Gender</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Person</IRI>
+        <Literal xml:lang="en">A person (plural people or persons) is a being that has certain capacities or attributes such as reason, morality, consciousness or self-consciousness, and being a part of a culturally established form of social relations such as kinship, ownership of property, or legal responsibility.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Person</IRI>
+        <Literal xml:lang="en">https://en.wikipedia.org/wiki/Person</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Production</IRI>
+        <Literal xml:lang="en">Production is a term that characterizes the result of production, economic activity.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Rick_Owens_Co.</IRI>
+        <Literal xml:lang="en">Rick Owens it is fashion brand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Rick_Owens_Co.</IRI>
+        <Literal xml:lang="en">https://www.rickowens.eu/</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Riot_Division_Co.</IRI>
+        <Literal xml:lang="en">Riot Division it is fashion brand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Riot_Division_Co.</IRI>
+        <Literal xml:lang="en">https://riotdivision.tech/</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
