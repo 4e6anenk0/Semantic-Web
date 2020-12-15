@@ -1,5 +1,6 @@
 from rdflib import Graph
 
+
 g = Graph()
 g.parse('rdf_gen_2.rdf')
 
